@@ -1,2 +1,2 @@
 # Data-Cleaning-and-EDA
-Data Cleaning and EDA on E-Commerce data using Python. Analyzed sales trends, customer behaviour and product performance with Pandas and NumPy.
+A production style data preprocessing pipeline built on a real-world messy e-commerce dataset. Transforming raw, inconsistent data into analytics ready output using Python and and its libraries : NumPy and Pandas.
