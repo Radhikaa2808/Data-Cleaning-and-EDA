@@ -1,0 +1,1201 @@
+Order_ID,Customer_Name,Email,Product_ID,Product_Category,Quantity,Unit_Price,Shipping_Cost,Payment_Method,Delivery_Status,Order_Date
+ORD-1825,Amit$,,P-100@,Home & Kitchen,5,218.54,,Cash on Delivery,Pending,01/14/2023
+ORD-1447,Rahul@,test@yahoo.com,P-100@,Electronics,2,477.82,,Credit Card,,30-07-2023
+ORD-1778,,test@yahoo.com,P-100@,Electronics,one,379.4,,Credit Card,Delivered,06-12-2023
+ORD-1425,Rahul@,test@yahoo.com,P#200,Electronics,10,319.4,,Paypal,Pending,03/16/2023
+ORD-2047,Neha!!,wrong@email@.com,P-100@,Electronics,1,120.21,,Net banking,Cancelled,09/20/2023
+ORD-1522,,wrong@email@.com,,Fashion,2,12#0.2,,Credit Card,,19-09-2023
+ORD-1244,Ankit#,test@yahoo.com,P_300,Fashion,2,76.14,,,Cancelled,03/26/2023
+ORD-1749,,,P_300,Fashion,2,439.78,,Credit Card,Pending,19-08-2023
+ORD-1727,Neha!!,,P-100@,Electronics,two,320.5,,Credit Card,Cancelled,04-04-2023
+ORD-1966,Rohit,wrong@email@.com,P-100@,,2,368.63,,,Delivered,02-07-2023
+ORD-2179,Amit$,wrong@email@.com,P_300,,,59.26,,Paypal,Delivered,09/26/2023
+ORD-1266,Rahul@,test@yahoo.com,P 400,Home & Kitchen,10,486.46,,Paypal,Delivered,29-11-2023
+ORD-1858,Rahul@,,,Fashion,three,424.6,,Credit Card,Delivered,18-11-2023
+ORD-1529,S@nja y,test@yahoo.com,P-100@,Home & Kitchen,,145$6.55,,,Pending,07-07-2023
+ORD-1818,,test@yahoo.com,P-100@,,1,131.82,,Paypal,Delivered,23-12-2023
+ORD-1402,Ankit#,,P-100@,Electronics,2,132.53,,,Cancelled,09-02-2023
+ORD-1178,Rahul@,demo@outlook.com,P 400,Home & Kitchen,2,186.91,,Credit Card,Delivered,07-05-2023
+ORD-1557,Ankit#,,P-100@,,,286.14,,Credit Card,Cancelled,05/31/2023
+ORD-1728,,demo@outlook.com,P#200,Home & Kitchen,10,244.38,,,Pending,28-11-2023
+ORD-2038,Rohit,wrong@email@.com,P 400,Electronics,10,181.05,,Net banking,Pending,17-05-2023
+ORD-1962,Priya,user@gmail.com,,Fashion,10,325.33,,Cash on Delivery,,27-08-2023
+ORD-1812,Neha!!,demo@outlook.com,P_300,Electronics,5,112.77,,Paypal,Cancelled,17-04-2023
+ORD-1954,S@nja y,user@gmail.com,,Home & Kitchen,10,181.47,,Paypal,,10-04-2023
+ ORD-1560 ,Neha!!,wrong@email@.com,P-100@,Fashion,5,214.86,,,,06-06-2023
+ORD-1339,Rohit,demo@outlook.com,P_300,Electronics,10,255.23,,,,12-07-2023
+ORD-1010,S@nja y,,P#200,Home & Kitchen,2,403.33,,Net banking,Delivered,07/29/2023
+ORD-1209,Ankit#,demo@outlook.com,P_300,Fashion,10,139.85,,Paypal,Delivered,25-06-2023
+ORD-2059,,user@gmail.com,,,10,281.41,,Credit Card,,06-11-2023
+ORD-1879,Amit$,test@yahoo.com,P#200,Electronics,1,316.59,,,Delivered,08-12-2023
+ORD-1524,Ankit#,,P 400,Electronics,2,70.9,,Credit Card,,09-07-2023
+ORD-1222,Rohit,demo@outlook.com,,Home & Kitchen,5,323.4,,Net banking,Delivered,07-03-2023
+ORD-1025,Rohit,user@gmail.com,P 400,Fashion,2,126.74,,Net banking,,10-05-2023
+ORD-1683,Priya,,P 400,Fashion,10,79.27,,,Delivered,09/14/2023
+ORD-1593,Amit$,,,Fashion,1,477,,Cash on Delivery,Cancelled,30-05-2023
+ORD-1192,Neha!!,test@yahoo.com,P 400,Electronics,10,484.53,,,Cancelled,05/14/2023
+ORD-1537,Neha!!,demo@outlook.com,P 400,Home & Kitchen,1,413.78,,Paypal,Cancelled,06/19/2023
+ORD-1177,Neha!!,test@yahoo.com,P-100@,,10,187.08,,Net banking,Cancelled,12/19/2023
+ORD-1132,Ankit#,test@yahoo.com,P-100@,Home & Kitchen,1,93.95,,Net banking,Pending,05/21/2023
+ORD-1475,Rahul@,demo@outlook.com,P_300,,10,357.9,,Cash on Delivery,,31-05-2023
+ORD-1148,Neha!!,user@gmail.com,P_300,Home & Kitchen,,248.07,,,Delivered,03-10-2023
+ORD-1998,Priya,demo@outlook.com,P-100@,Home & Kitchen,2,104.92,,Paypal,Pending,08-12-2023
+ORD-2057,Neha!!,wrong@email@.com,,Electronics,2,272.83,,Net banking,Cancelled,02-12-2023
+ ORD-1380 ,S@nja y,test@yahoo.com,P-100@,Electronics,2,65.47,,Cash on Delivery,,06-04-2023
+ORD-1744,Priya,test@yahoo.com,P#200,,2,459.19,,Cash on Delivery,Cancelled,28-12-2023
+ORD-1194,Neha!!,,P 400,Fashion,1,166.45,,Paypal,Delivered,06-04-2023
+ORD-1329,Rohit,test@yahoo.com,P 400,Home & Kitchen,10,348.14,,,Cancelled,13-07-2023
+ORD-1216,Rohit,wrong@email@.com,,Fashion,1,190.27,,Cash on Delivery,Delivered,28-09-2023
+ORD-1139,Rohit,test@yahoo.com,P 400,Fashion,5,284.03,,Paypal,Cancelled,17-07-2023
+ORD-1635,Rahul@,,P-100@,Electronics,1,296.02,,Paypal,Pending,26-06-2023
+ORD-1666,Priya,demo@outlook.com,,Fashion,1,133.18,,Net banking,,07-06-2023
+ORD-1006,Ankit#,wrong@email@.com,P#200,Electronics,5,486.31,,Cash on Delivery,Delivered,07-10-2023
+ORD-1726,S@nja y,user@gmail.com,,Fashion,,398.81,,Cash on Delivery,Cancelled,31-10-2023
+ORD-1279,Amit$,demo@outlook.com,P 400,Electronics,2,472.77,,Net banking,Delivered,10/17/2023
+ORD-1296,,demo@outlook.com,,Home & Kitchen,2,452.67,,Cash on Delivery,,06-12-2023
+ORD-1778,,test@yahoo.com,P-100@,,,319.05,,Paypal,Pending,08-03-2023
+ ORD-1000 ,Amit$,user@gmail.com,,Home & Kitchen,1,464.84,,Credit Card,Cancelled,04/30/2023
+ORD-1974,Rahul@,user@gmail.com,P-100@,Fashion,10,89.82,,Cash on Delivery,Cancelled,03/29/2023
+ORD-1433,Rohit,demo@outlook.com,P 400,Electronics,1,138.19,,Cash on Delivery,Delivered,02-07-2023
+ORD-1132,Priya,user@gmail.com,P-100@,Home & Kitchen,10,70.35,,Credit Card,Pending,05-01-2023
+ORD-1936,Ankit#,,P 400,,,196.4,,Credit Card,,27-04-2023
+ORD-1375,Neha!!,test@yahoo.com,P-100@,Fashion,5,224.9,,Credit Card,Cancelled,25-02-2023
+ORD-1037,S@nja y,wrong@email@.com,P-100@,,10,172.11,,Paypal,Delivered,11-05-2023
+ ORD-1440 ,Rahul@,demo@outlook.com,P 400,Electronics,5,422.93,,Paypal,Pending,10-05-2023
+ORD-1622,Ankit#,user@gmail.com,P#200,,10,210.54,,Net banking,Delivered,04-02-2023
+ORD-1638,Ankit#,demo@outlook.com,P-100@,Home & Kitchen,10,176.42,,Paypal,Delivered,02-10-2023
+ORD-1835,S@nja y,,P-100@,Home & Kitchen,5,294.21,,Cash on Delivery,,12/24/2023
+ORD-1278,Neha!!,demo@outlook.com,P 400,Fashion,5,113.42,,Cash on Delivery,,01-07-2023
+ORD-1619,,wrong@email@.com,P-100@,,2,410.99,,Cash on Delivery,Pending,26-07-2023
+ORD-1221,Ankit#,,P 400,Home & Kitchen,,83.55,,Credit Card,Pending,12-06-2023
+ORD-2015,Neha!!,user@gmail.com,P 400,Home & Kitchen,5,494.1,,Net banking,Delivered,05-06-2023
+ORD-1322,Rohit,,,Electronics,2,397.51,,Cash on Delivery,Cancelled,06/30/2023
+ORD-1967,Priya,user@gmail.com,,,10,139.42,,Credit Card,Delivered,29-07-2023
+ORD-1630,S@nja y,,P-100@,Fashion,,52.48,,Credit Card,,23-02-2023
+ORD-1956,Amit$,,P-100@,Home & Kitchen,10,416.96,,Paypal,Cancelled,04-10-2023
+ORD-2038,Ankit#,demo@outlook.com,P#200,Electronics,10,368.09,,Paypal,Pending,01/13/2023
+ORD-1085,Priya,wrong@email@.com,P_300,Electronics,2,378.05,,Net banking,,07/20/2023
+ORD-1162,,,P-100@,Electronics,1,397.07,,Net banking,Delivered,27-12-2023
+ORD-1502,Priya,wrong@email@.com,,Electronics,2,83.32,,Cash on Delivery,Delivered,01-08-2023
+ORD-2092,Amit$,,,Electronics,,211.31,,Cash on Delivery,Cancelled,04/24/2023
+ORD-1783,Priya,wrong@email@.com,,Fashion,10,102.14,,Net banking,Cancelled,19-05-2023
+ORD-1123,Rahul@,test@yahoo.com,P-100@,Fashion,5,438.4,,Credit Card,Cancelled,08/14/2023
+ORD-1489,Amit$,demo@outlook.com,P-100@,Electronics,10,330.48,,Paypal,Delivered,27-01-2023
+ORD-1422,Rahul@,test@yahoo.com,P-100@,,2,198.9,,Paypal,Delivered,31-07-2023
+ORD-1232,Rahul@,user@gmail.com,,Fashion,,78.6,,Paypal,Cancelled,06-02-2023
+ORD-2119,Ankit#,wrong@email@.com,P-100@,Home & Kitchen,2,189.94,,Net banking,,17-06-2023
+ORD-2031,Priya,user@gmail.com,P 400,,1,196.33,,Credit Card,,12-01-2023
+ORD-1248,Ankit#,wrong@email@.com,P 400,,,378.32,,Paypal,Pending,07-06-2023
+ORD-1704,Amit$,test@yahoo.com,,Fashion,1,336.9,,Net banking,Pending,09-11-2023
+ORD-1397,Amit$,user@gmail.com,P_300,Home & Kitchen,1,449.25,,Credit Card,Delivered,10-10-2023
+ORD-1262,S@nja y,test@yahoo.com,,Home & Kitchen,,262.5,,Net banking,,03/29/2023
+ORD-2041,Amit$,demo@outlook.com,,Home & Kitchen,2,103.82,,,Pending,27-05-2023
+ORD-1333,Priya,user@gmail.com,,Electronics,10,370.96,,Cash on Delivery,Cancelled,11-04-2023
+ORD-1626,Rohit,,P#200,Home & Kitchen,,392.35,,Cash on Delivery,Cancelled,24-11-2023
+ORD-1935,,test@yahoo.com,P 400,Electronics,5,302.57,,Net banking,Cancelled,12/20/2023
+ORD-2189,Rahul@,test@yahoo.com,P_300,Fashion,,396.94,,Paypal,,07-10-2023
+ORD-1610,Rahul@,wrong@email@.com,P#200,Fashion,5,272.21,,Cash on Delivery,Cancelled,30-08-2023
+ORD-1229,Rohit,user@gmail.com,P_300,Home & Kitchen,1,285.23,,Cash on Delivery,Pending,23-12-2023
+ORD-1608,Priya,user@gmail.com,P#200,Electronics,2,242.39,,Cash on Delivery,Cancelled,15-10-2023
+ORD-1127,Priya,,P 400,Electronics,2,61.44,,Cash on Delivery,Cancelled,11-01-2023
+ORD-1463,,test@yahoo.com,P_300,Fashion,10,98.55,,,Cancelled,08-12-2023
+ORD-1327,S@nja y,,,Fashion,10,64.14,,Cash on Delivery,Pending,05-11-2023
+ORD-1685,S@nja y,user@gmail.com,,,5,336.38,,Net banking,Delivered,17-02-2023
+ORD-1952,S@nja y,,P_300,Fashion,2,191.46,,Paypal,Delivered,04/21/2023
+ORD-1985,Ankit#,test@yahoo.com,,,10,278.86,,,,25-01-2023
+ORD-1305,Amit$,,P 400,,1,458.4,,Net banking,Cancelled,09-07-2023
+ORD-1781,Neha!!,wrong@email@.com,P 400,Fashion,10,162.18,,,Delivered,24-06-2023
+ORD-1351,Priya,demo@outlook.com,,,5,234.67,,,Delivered,03-07-2023
+ORD-1609,Ankit#,test@yahoo.com,,Fashion,2,390,,Cash on Delivery,Delivered,07/24/2023
+ ORD-1760 ,Priya,demo@outlook.com,P 400,Home & Kitchen,,152.96,,Credit Card,,02/25/2023
+ORD-1826,Rohit,user@gmail.com,P 400,,5,84.64,,Paypal,Delivered,01/20/2023
+ORD-1514,Amit$,demo@outlook.com,P-100@,Fashion,1,180.39,,,Cancelled,11-04-2023
+ORD-1225,Neha!!,test@yahoo.com,,Home & Kitchen,2,122.55,,Cash on Delivery,Cancelled,30-03-2023
+ORD-1951,Amit$,test@yahoo.com,,Fashion,10,468.36,,Net banking,Cancelled,11-04-2023
+ORD-1535,Rohit,test@yahoo.com,,,5,413.65,,Net banking,Cancelled,12/13/2023
+ORD-1207,Amit$,,P#200,,2,335.03,,Cash on Delivery,Pending,12-10-2023
+ORD-1470,Rohit,wrong@email@.com,,Home & Kitchen,5,442.16,,Net banking,Cancelled,15-11-2023
+ORD-1879,Ankit#,demo@outlook.com,P-100@,Home & Kitchen,1,411.65,,Paypal,Delivered,20-11-2023
+ORD-1538,Neha!!,,P_300,Electronics,5,133.96,,Cash on Delivery,Cancelled,02/20/2023
+ORD-1288,S@nja y,user@gmail.com,P 400,Electronics,5,451.65,,Cash on Delivery,Pending,12-08-2023
+ ORD-1320 ,Ankit#,test@yahoo.com,P#200,Electronics,,292.7,,,Pending,03-10-2023
+ORD-1959,S@nja y,test@yahoo.com,P_300,Home & Kitchen,1,413.35,,,Delivered,09/20/2023
+ORD-1331,S@nja y,user@gmail.com,P#200,,,453.24,,Net banking,Delivered,27-05-2023
+ORD-1173,Ankit#,demo@outlook.com,P#200,Electronics,1,193.1,,Credit Card,Delivered,09/19/2023
+ORD-1270,Rahul@,user@gmail.com,,,5,99.52,,Net banking,Pending,01-08-2023
+ORD-1531,Rohit,,P 400,Electronics,10,152.57,,,Delivered,26-01-2023
+ORD-1851,Rahul@,test@yahoo.com,,Fashion,2,242.2,,Cash on Delivery,Delivered,08/19/2023
+ORD-1994,,demo@outlook.com,P 400,,,418.11,,Paypal,Cancelled,01/20/2023
+ORD-1042,Priya,demo@outlook.com,P-100@,Home & Kitchen,1,437.33,,Credit Card,Delivered,19-12-2023
+ORD-2003,Priya,test@yahoo.com,P#200,Fashion,5,53.13,,Net banking,,08-03-2023
+ORD-1911,Ankit#,,P#200,,10,279.84,,Cash on Delivery,Pending,06-12-2023
+ORD-1446,Rahul@,user@gmail.com,P#200,Electronics,10,237.83,,,Delivered,08-07-2023
+ORD-1874,Priya,test@yahoo.com,P#200,Home & Kitchen,1,149.95,,Paypal,Cancelled,30-03-2023
+ORD-1915,S@nja y,test@yahoo.com,P 400,Electronics,,103.94,,Credit Card,,25-07-2023
+ORD-1217,Amit$,user@gmail.com,,Home & Kitchen,10,201.93,,Net banking,,02-01-2023
+ORD-1227,Rahul@,demo@outlook.com,P 400,Fashion,2,474.31,,Credit Card,Cancelled,12/27/2023
+ORD-1111,Amit$,demo@outlook.com,P_300,,10,195.44,,Paypal,Pending,08/18/2023
+ORD-1335,Rahul@,demo@outlook.com,P#200,Fashion,2,283.46,,,Delivered,05/25/2023
+ORD-1378,Amit$,test@yahoo.com,,Electronics,,366.36,,Net banking,Delivered,01-01-2023
+ORD-1577,Amit$,user@gmail.com,P-100@,Home & Kitchen,10,213.63,,Cash on Delivery,Cancelled,23-12-2023
+ORD-1835,Ankit#,user@gmail.com,P 400,Electronics,2,487.3,,Credit Card,Delivered,04-06-2023
+ORD-1295,S@nja y,test@yahoo.com,P-100@,Electronics,5,483.1,,Paypal,Cancelled,09/29/2023
+ORD-1031,Rahul@,demo@outlook.com,,,,163.3,,Paypal,Delivered,12/22/2023
+ORD-1161,Rohit,,P_300,Electronics,10,273.76,,Paypal,Cancelled,08-11-2023
+ORD-1236,,user@gmail.com,P 400,,2,185.4,,Cash on Delivery,Delivered,09-04-2023
+ ORD-1860 ,Neha!!,test@yahoo.com,P 400,Fashion,5,178.18,,,Cancelled,12-05-2023
+ORD-1901,Priya,user@gmail.com,P#200,Home & Kitchen,10,66.6,,Net banking,Cancelled,07-10-2023
+ORD-1797,Rohit,test@yahoo.com,P 400,Home & Kitchen,5,324.3,,Credit Card,,08-01-2023
+ ORD-1340 ,Ankit#,test@yahoo.com,P#200,,5,276.21,,Net banking,,14-08-2023
+ORD-1565,S@nja y,demo@outlook.com,,Electronics,5,73.17,,Credit Card,Delivered,15-11-2023
+ORD-1415,S@nja y,test@yahoo.com,,Fashion,2,175.39,,,Delivered,28-01-2023
+ORD-1269,Priya,,P 400,Home & Kitchen,1,458.72,,Credit Card,Cancelled,03-04-2023
+ORD-1931,S@nja y,wrong@email@.com,,Fashion,5,157.8,,,Delivered,18-12-2023
+ORD-2139,Rahul@,test@yahoo.com,P-100@,Fashion,10,115.2,,,Cancelled,31-05-2023
+ORD-1584,Ankit#,demo@outlook.com,P-100@,Fashion,,270.25,,Credit Card,Cancelled,11-07-2023
+ORD-1294,Neha!!,,P 400,Fashion,5,493.54,,Paypal,Delivered,17-07-2023
+ORD-1705,Rahul@,user@gmail.com,P_300,Fashion,1,158.92,,Paypal,,16-08-2023
+ORD-1613,Neha!!,wrong@email@.com,,,1,352.46,,Credit Card,,07/26/2023
+ORD-1902,Neha!!,demo@outlook.com,P 400,Fashion,10,392.73,,Cash on Delivery,,19-01-2023
+ORD-1895,Rahul@,demo@outlook.com,P#200,Electronics,,156.94,,,Delivered,19-01-2023
+ORD-1591,Neha!!,,P 400,Home & Kitchen,10,377.7,,Net banking,Cancelled,03/15/2023
+ORD-1058,Neha!!,,,,5,215.5,,Paypal,,08-12-2023
+ORD-1969,Neha!!,test@yahoo.com,P 400,Fashion,10,334.54,,,Cancelled,16-05-2023
+ORD-1328,,wrong@email@.com,P#200,,10,335.09,,Cash on Delivery,,10-10-2023
+ORD-1462,Rahul@,user@gmail.com,P_300,,,291.1,,,Cancelled,07/13/2023
+ORD-2168,Ankit#,wrong@email@.com,,Fashion,2,90.63,,Net banking,Cancelled,07-08-2023
+ORD-1647,Amit$,,P#200,Home & Kitchen,,425.89,,Cash on Delivery,Delivered,25-05-2023
+ORD-1870,,wrong@email@.com,P#200,Fashion,,194.35,,Credit Card,,09-01-2023
+ORD-1285,Rohit,,P-100@,,1,133.93,,,,17-02-2023
+ORD-2188,Rohit,user@gmail.com,P#200,Home & Kitchen,5,68.35,,Cash on Delivery,Delivered,29-07-2023
+ORD-1397,Amit$,user@gmail.com,P_300,Electronics,5,315.9,,Credit Card,Cancelled,08/30/2023
+ORD-2008,,user@gmail.com,P-100@,Electronics,2,354.9,,Cash on Delivery,Cancelled,29-01-2023
+ORD-2169,S@nja y,user@gmail.com,P#200,,10,57.46,,Paypal,Delivered,02-03-2023
+ORD-2023,,,P 400,,1,280.44,,Paypal,Cancelled,28-05-2023
+ORD-1132,Rohit,user@gmail.com,P 400,,,151.92,,Cash on Delivery,Cancelled,03/17/2023
+ORD-1479,Rohit,demo@outlook.com,P 400,,,340.33,,Net banking,Pending,13-07-2023
+ORD-2157,,test@yahoo.com,P#200,Fashion,2,128.46,,,Cancelled,09/20/2023
+ ORD-1440 ,Amit$,wrong@email@.com,P-100@,,2,360.92,,Paypal,Delivered,07/18/2023
+ORD-1470,Amit$,user@gmail.com,P#200,Home & Kitchen,10,224.03,,,Delivered,28-06-2023
+ ORD-1580 ,S@nja y,test@yahoo.com,P 400,Electronics,,471.53,,Net banking,Cancelled,03-10-2023
+ORD-1872,Priya,user@gmail.com,P 400,Home & Kitchen,5,111.88,,Paypal,Cancelled,11-07-2023
+ORD-1299,Rohit,test@yahoo.com,P#200,,2,203.48,,Net banking,Pending,02-07-2023
+ORD-2074,Priya,demo@outlook.com,,,1,101.06,,Credit Card,Cancelled,26-03-2023
+ORD-1182,Rohit,user@gmail.com,,Electronics,10,466.11,,Paypal,Cancelled,21-10-2023
+ORD-1914,S@nja y,user@gmail.com,P_300,,5,444.8,,Cash on Delivery,Delivered,24-05-2023
+ORD-1006,Rohit,demo@outlook.com,,,,166.07,,Credit Card,,01-03-2023
+ORD-1124,Priya,wrong@email@.com,P-100@,,2,346.99,,,Pending,03/28/2023
+ORD-2182,,,P_300,Electronics,2,417.75,,,,07-05-2023
+ORD-1152,Priya,test@yahoo.com,P#200,Home & Kitchen,2,299.84,,Cash on Delivery,Pending,01-10-2023
+ORD-1974,Neha!!,,P#200,Fashion,1,288.34,,Paypal,Delivered,01/14/2023
+ORD-1088,Priya,demo@outlook.com,P#200,,10,158.83,,Net banking,Delivered,27-12-2023
+ORD-1687,Amit$,user@gmail.com,P-100@,,5,91.9,,Net banking,,05/15/2023
+ORD-1046,Neha!!,test@yahoo.com,P-100@,,,453.75,,Credit Card,Delivered,18-08-2023
+ORD-1206,,test@yahoo.com,P_300,Home & Kitchen,1,455.19,,,Delivered,06/16/2023
+ORD-2145,Priya,,P_300,Fashion,,334.9,,Net banking,Cancelled,01-11-2023
+ORD-1566,Rahul@,,,,,202.56,,Net banking,Cancelled,03/29/2023
+ORD-1782,S@nja y,test@yahoo.com,P-100@,Fashion,10,207.14,,Net banking,,22-12-2023
+ORD-1590,Neha!!,wrong@email@.com,P_300,Electronics,2,376.68,,Net banking,Pending,04-07-2023
+ORD-1836,S@nja y,,P 400,,1,453.7,,Net banking,,06-03-2023
+ORD-2064,Priya,demo@outlook.com,P 400,Fashion,5,449.19,,Credit Card,Delivered,07-11-2023
+ORD-1888,Rohit,user@gmail.com,P#200,Home & Kitchen,10,400.94,,Net banking,Delivered,06/18/2023
+ORD-1592,Priya,wrong@email@.com,P_300,Electronics,1,338.91,,,Pending,04/22/2023
+ORD-1830,Rohit,demo@outlook.com,P_300,Home & Kitchen,1,87.86,,Net banking,Cancelled,09-10-2023
+ORD-1330,Neha!!,demo@outlook.com,P 400,Electronics,10,122.73,,,Pending,09-05-2023
+ORD-1262,Ankit#,user@gmail.com,P_300,Electronics,5,454.35,,Cash on Delivery,Pending,23-07-2023
+ORD-1805,Neha!!,,P_300,Electronics,5,322.89,,Credit Card,Cancelled,11/28/2023
+ORD-1667,S@nja y,wrong@email@.com,P-100@,,5,54.14,,Paypal,Pending,07/16/2023
+ORD-1032,Ankit#,user@gmail.com,P-100@,Electronics,10,95.66,,Credit Card,Cancelled,08/27/2023
+ORD-1956,Rahul@,user@gmail.com,,Electronics,5,348.58,,,Cancelled,10-04-2023
+ORD-1555,Amit$,demo@outlook.com,P 400,Fashion,5,52.28,,,Cancelled,06-01-2023
+ORD-1174,Priya,user@gmail.com,P#200,Electronics,,122.36,,Credit Card,Pending,30-11-2023
+ORD-1416,Priya,,P_300,Home & Kitchen,2,296.93,,Net banking,Delivered,09/26/2023
+ORD-1112,Ankit#,user@gmail.com,P 400,Home & Kitchen,10,361.35,,Paypal,Cancelled,14-10-2023
+ORD-1119,Rohit,wrong@email@.com,P_300,,5,343.38,,Paypal,Cancelled,07-12-2023
+ORD-1742,Ankit#,,P-100@,Electronics,5,150.92,,Credit Card,Cancelled,04-11-2023
+ORD-1839,S@nja y,test@yahoo.com,,Electronics,10,370.48,,Credit Card,Delivered,28-08-2023
+ORD-1565,,user@gmail.com,P#200,Electronics,,156.76,,Cash on Delivery,Cancelled,08-05-2023
+ORD-1933,S@nja y,test@yahoo.com,P_300,Home & Kitchen,1,196.43,,Cash on Delivery,Pending,03-03-2023
+ ORD-1160 ,Rahul@,demo@outlook.com,P#200,Fashion,,385.92,,Paypal,Pending,05-09-2023
+ORD-1049,S@nja y,user@gmail.com,,Home & Kitchen,2,342.33,,Paypal,Cancelled,07-05-2023
+ORD-1378,Rohit,user@gmail.com,P-100@,Electronics,2,432.15,,Paypal,Delivered,03-07-2023
+ ORD-1900 ,S@nja y,user@gmail.com,P#200,Fashion,,345.93,,Cash on Delivery,Cancelled,04-11-2023
+ORD-2121,Rahul@,demo@outlook.com,,Fashion,2,305.74,,Cash on Delivery,Delivered,07-12-2023
+ORD-1410,Neha!!,,P 400,Electronics,10,92.15,,Cash on Delivery,,10/14/2023
+ORD-2088,Rahul@,demo@outlook.com,P#200,Home & Kitchen,1,215.47,,,Pending,21-08-2023
+ORD-1349,Amit$,,P-100@,Electronics,1,169.34,,Cash on Delivery,,10-01-2023
+ORD-1534,Ankit#,wrong@email@.com,P-100@,Home & Kitchen,5,159.8,,,Cancelled,01-01-2023
+ORD-1185,Neha!!,,P-100@,,,487.85,,Paypal,Cancelled,01/16/2023
+ORD-1527,Rahul@,test@yahoo.com,P#200,Fashion,10,226.89,,Paypal,Delivered,02-06-2023
+ORD-1475,Rahul@,user@gmail.com,P#200,Fashion,5,451.42,,Net banking,Delivered,10-03-2023
+ORD-1958,Rahul@,demo@outlook.com,,Fashion,5,334.01,,Cash on Delivery,Cancelled,01/31/2023
+ORD-1558,Priya,demo@outlook.com,P 400,Home & Kitchen,10,407.67,,Cash on Delivery,Cancelled,01/15/2023
+ORD-2045,,wrong@email@.com,P 400,Electronics,5,276.19,,Net banking,,03-11-2023
+ORD-1453,Priya,user@gmail.com,P#200,Electronics,5,309.61,,,Cancelled,16-03-2023
+ORD-1112,Neha!!,demo@outlook.com,P-100@,Home & Kitchen,,271.63,,Paypal,Cancelled,07/15/2023
+ORD-1628,,test@yahoo.com,P_300,Home & Kitchen,1,137.86,,Cash on Delivery,Delivered,31-01-2023
+ ORD-1960 ,Rohit,test@yahoo.com,P#200,Home & Kitchen,5,375.1,,Net banking,Pending,29-09-2023
+ORD-1769,Rahul@,wrong@email@.com,P-100@,,5,176.35,,,,04/18/2023
+ORD-1463,,,P 400,Home & Kitchen,10,60.94,,,Pending,18-04-2023
+ORD-1851,Ankit#,demo@outlook.com,P-100@,,1,340.46,,Paypal,Cancelled,11/13/2023
+ORD-1699,Amit$,user@gmail.com,P_300,,2,129.7,,Credit Card,,30-10-2023
+ORD-1852,Neha!!,test@yahoo.com,P 400,,1,473.21,,Credit Card,,08/18/2023
+ORD-1567,Rahul@,wrong@email@.com,P_300,Electronics,2,479.27,,Credit Card,Delivered,11-05-2023
+ORD-1857,Priya,demo@outlook.com,P 400,Fashion,10,461.69,,,Delivered,24-04-2023
+ORD-2179,,wrong@email@.com,P 400,Home & Kitchen,5,216.57,,,Cancelled,04/24/2023
+ORD-1154,,user@gmail.com,P_300,Home & Kitchen,2,56.96,,Paypal,Cancelled,04-11-2023
+ORD-1513,,,,,10,467.74,,Net banking,Delivered,08/24/2023
+ORD-2166,Rohit,test@yahoo.com,P-100@,,,242.68,,Cash on Delivery,Pending,03-01-2023
+ORD-2091,Neha!!,test@yahoo.com,P 400,Fashion,10,484.99,,Credit Card,Pending,01-05-2023
+ORD-1549,Rahul@,demo@outlook.com,P#200,,,483.63,,Credit Card,Cancelled,01/28/2023
+ORD-1416,,test@yahoo.com,P#200,Electronics,5,433.85,,Paypal,Cancelled,06/26/2023
+ORD-1197,S@nja y,user@gmail.com,P 400,,2,182.5,,Net banking,Pending,04/23/2023
+ORD-1391,Neha!!,user@gmail.com,P_300,Home & Kitchen,2,223.29,,Net banking,,06/18/2023
+ORD-1406,Rohit,,P-100@,Home & Kitchen,2,433.01,,Cash on Delivery,Cancelled,10-08-2023
+ORD-1201,,,,,10,192.61,,,Delivered,12-03-2023
+ORD-1099,Priya,user@gmail.com,P-100@,Fashion,1,126.27,,Paypal,,08-07-2023
+ORD-1901,,wrong@email@.com,,Fashion,10,300.56,,,Delivered,03/17/2023
+ORD-1117,Priya,demo@outlook.com,,Electronics,2,471.27,,Cash on Delivery,,03-12-2023
+ORD-1707,Rahul@,user@gmail.com,,Electronics,1,363.21,,,Pending,29-11-2023
+ORD-1942,S@nja y,,P 400,Fashion,5,306.53,,Cash on Delivery,Pending,07/27/2023
+ORD-1455,Priya,user@gmail.com,P_300,Home & Kitchen,10,93.73,,Credit Card,Cancelled,01-05-2023
+ORD-1325,,,P_300,Electronics,5,326.75,,Cash on Delivery,Delivered,10/14/2023
+ORD-1104,S@nja y,test@yahoo.com,P_300,Electronics,1,495.52,,Credit Card,Pending,03-09-2023
+ORD-1669,Rahul@,user@gmail.com,P 400,Fashion,1,113.04,,Credit Card,Cancelled,04/29/2023
+ORD-1865,Rohit,demo@outlook.com,P#200,Fashion,2,283.25,,,Cancelled,25-03-2023
+ORD-1843,,demo@outlook.com,P 400,Electronics,,444.82,,Cash on Delivery,,11-11-2023
+ORD-1901,S@nja y,test@yahoo.com,,Electronics,,383.35,,Credit Card,,07/18/2023
+ ORD-1560 ,Rohit,wrong@email@.com,P_300,Electronics,1,363.66,,,Pending,02/22/2023
+ORD-1486,Ankit#,demo@outlook.com,P 400,Fashion,1,366.12,,Net banking,Pending,01/29/2023
+ORD-2192,Rohit,test@yahoo.com,,,2,211.77,,Credit Card,Cancelled,02-12-2023
+ORD-1890,,,P_300,Fashion,2,182.12,,Cash on Delivery,Pending,04-11-2023
+ORD-1764,Rohit,,P_300,Fashion,10,414.21,,Net banking,Cancelled,10-11-2023
+ ORD-1160 ,Priya,demo@outlook.com,,,10,414.55,,Paypal,,09-12-2023
+ORD-1979,Priya,wrong@email@.com,,,1,440.18,,Credit Card,Pending,06/30/2023
+ORD-1743,Amit$,user@gmail.com,P 400,Home & Kitchen,10,460.96,,Paypal,Pending,02-09-2023
+ORD-1511,Amit$,test@yahoo.com,,Fashion,2,280.1,,Credit Card,Delivered,06/26/2023
+ORD-1126,Amit$,test@yahoo.com,P-100@,Electronics,2,275.68,,,Cancelled,16-01-2023
+ORD-1073,Ankit#,,P 400,Fashion,2,409.23,,,,04-06-2023
+ORD-2126,Amit$,,P_300,Fashion,1,342.48,,Net banking,Pending,12-06-2023
+ORD-1219,S@nja y,wrong@email@.com,P_300,,2,365.89,,Cash on Delivery,,04/23/2023
+ORD-1350,Priya,,P#200,,10,408.11,,Credit Card,,04-06-2023
+ORD-1115,S@nja y,wrong@email@.com,,Fashion,1,450.5,,Net banking,Delivered,09-03-2023
+ORD-1072,Ankit#,test@yahoo.com,P_300,Home & Kitchen,2,202.1,,Paypal,Pending,13-05-2023
+ORD-1027,Amit$,test@yahoo.com,P#200,,5,219.01,,Cash on Delivery,,30-03-2023
+ORD-1749,Ankit#,wrong@email@.com,P-100@,Home & Kitchen,5,92.29,,Paypal,Pending,09-01-2023
+ORD-1012,Neha!!,demo@outlook.com,,Home & Kitchen,10,310.23,,,Pending,10-06-2023
+ORD-1465,Neha!!,wrong@email@.com,P 400,Fashion,5,66.17,,Credit Card,Pending,15-06-2023
+ORD-1930,,,,,10,259.52,,Cash on Delivery,Pending,06/26/2023
+ORD-1019,Amit$,test@yahoo.com,P_300,Electronics,1,294.19,,,Pending,07/27/2023
+ORD-2109,Ankit#,demo@outlook.com,P_300,,5,178.94,,,,28-05-2023
+ORD-1477,Rohit,user@gmail.com,P-100@,Home & Kitchen,2,315.87,,Net banking,Cancelled,02/23/2023
+ORD-1827,Rahul@,,,,10,63.73,,Net banking,,07/17/2023
+ORD-1162,S@nja y,user@gmail.com,P-100@,Fashion,5,66.81,,Cash on Delivery,Pending,02-04-2023
+ORD-2109,Rahul@,user@gmail.com,P_300,Fashion,1,420.17,,Cash on Delivery,,21-09-2023
+ORD-1221,Amit$,user@gmail.com,P#200,,2,212.09,,Paypal,Cancelled,06-06-2023
+ORD-1274,Neha!!,demo@outlook.com,P#200,Home & Kitchen,5,107.18,,Cash on Delivery,,14-12-2023
+ORD-1569,Amit$,,P 400,Electronics,5,285.01,,Net banking,Delivered,12/29/2023
+ORD-2049,Rahul@,user@gmail.com,P-100@,Fashion,2,396.5,,,,06-10-2023
+ORD-1803,Rahul@,user@gmail.com,P_300,,10,147.12,,,Delivered,19-07-2023
+ORD-1883,Ankit#,test@yahoo.com,P 400,,,330.3,,Credit Card,Delivered,16-12-2023
+ORD-1149,S@nja y,demo@outlook.com,P-100@,,1,88.41,,Credit Card,,13-12-2023
+ORD-1117,Amit$,test@yahoo.com,,Home & Kitchen,10,73.26,,,,10-10-2023
+ORD-1363,Rahul@,wrong@email@.com,P-100@,,1,289.11,,Net banking,Pending,06-09-2023
+ORD-1293,Priya,,,Home & Kitchen,5,293.29,,Cash on Delivery,Pending,03-03-2023
+ORD-2116,,demo@outlook.com,P#200,Home & Kitchen,2,336.84,,Paypal,Cancelled,06-03-2023
+ORD-1189,Priya,demo@outlook.com,P 400,Home & Kitchen,1,376.74,,Cash on Delivery,Delivered,22-06-2023
+ORD-2059,,demo@outlook.com,,Home & Kitchen,5,489.13,,Cash on Delivery,,02/24/2023
+ORD-1069,Neha!!,demo@outlook.com,P_300,Home & Kitchen,5,282.34,,Credit Card,Delivered,26-09-2023
+ORD-1767,,test@yahoo.com,P-100@,,2,195.33,,Paypal,Cancelled,10-06-2023
+ORD-1299,Priya,user@gmail.com,,Fashion,2,407.83,,Cash on Delivery,Delivered,07/26/2023
+ORD-1639,Amit$,test@yahoo.com,P-100@,Home & Kitchen,5,171.87,,Cash on Delivery,Delivered,06/29/2023
+ORD-2168,,,P#200,Fashion,1,247.54,,Net banking,Delivered,04/25/2023
+ORD-1983,Rohit,wrong@email@.com,P-100@,Home & Kitchen,5,85.31,,Credit Card,Cancelled,19-02-2023
+ORD-1965,Rohit,test@yahoo.com,P#200,Fashion,5,61.41,,Net banking,Pending,26-04-2023
+ORD-1237,Rahul@,test@yahoo.com,P 400,Home & Kitchen,,483.19,,Net banking,Delivered,12-06-2023
+ORD-1517,S@nja y,test@yahoo.com,P-100@,Fashion,2,426.19,,Credit Card,Delivered,07/18/2023
+ORD-1606,Priya,wrong@email@.com,P 400,Home & Kitchen,,363.19,,Net banking,,13-12-2023
+ORD-1236,Ankit#,demo@outlook.com,,Home & Kitchen,,234.03,,,,12/30/2023
+ORD-1915,Priya,wrong@email@.com,,,10,127.98,,Paypal,Delivered,23-12-2023
+ORD-1266,Amit$,wrong@email@.com,P 400,,2,120.4,,Net banking,Cancelled,09-11-2023
+ORD-1081,S@nja y,user@gmail.com,P-100@,Home & Kitchen,5,162.61,,Paypal,Delivered,01-02-2023
+ORD-1574,Rohit,wrong@email@.com,,Electronics,1,297.15,,Cash on Delivery,,20-04-2023
+ORD-2125,Neha!!,,P-100@,Fashion,2,371.57,,Cash on Delivery,,17-10-2023
+ORD-1153,Rohit,,P#200,Fashion,10,347.09,,,Pending,05/21/2023
+ORD-1068,S@nja y,user@gmail.com,P 400,Home & Kitchen,5,175.97,,Net banking,Cancelled,02-10-2023
+ORD-1527,Amit$,test@yahoo.com,P-100@,,2,479.69,,,Delivered,04-12-2023
+ORD-1049,Ankit#,,P-100@,Fashion,10,382.05,,,Cancelled,25-10-2023
+ORD-1803,Priya,test@yahoo.com,P 400,Home & Kitchen,,299.46,,Credit Card,Cancelled,10-07-2023
+ORD-1925,Rahul@,test@yahoo.com,P-100@,Home & Kitchen,10,325.27,,Net banking,Delivered,01-07-2023
+ORD-1279,Priya,user@gmail.com,P-100@,,5,238.82,,,Cancelled,21-08-2023
+ORD-1321,Rohit,test@yahoo.com,P 400,Electronics,,161.48,,Cash on Delivery,,26-12-2023
+ORD-1775,Neha!!,user@gmail.com,P-100@,Home & Kitchen,,210.19,,Net banking,Cancelled,23-09-2023
+ORD-1782,S@nja y,wrong@email@.com,P#200,,5,391.03,,,Delivered,19-12-2023
+ORD-1649,Priya,test@yahoo.com,,Electronics,,56.48,,Credit Card,Delivered,08-08-2023
+ORD-1136,Amit$,wrong@email@.com,P_300,Home & Kitchen,1,102.23,,Net banking,Pending,07-11-2023
+ORD-1265,S@nja y,demo@outlook.com,P-100@,Electronics,1,70.7,,,Pending,02-08-2023
+ORD-1184,Neha!!,wrong@email@.com,,Fashion,2,68.33,,Net banking,Cancelled,11-02-2023
+ORD-1666,Rohit,wrong@email@.com,P#200,Fashion,2,434.96,,Paypal,Cancelled,03-04-2023
+ORD-1168,Ankit#,user@gmail.com,,,5,366.65,,Credit Card,Delivered,02/14/2023
+ORD-1378,S@nja y,demo@outlook.com,P_300,,10,263.38,,Paypal,Delivered,02/16/2023
+ORD-1565,,user@gmail.com,P_300,Fashion,10,94.03,,Net banking,Pending,02/25/2023
+ORD-1386,Rahul@,demo@outlook.com,P 400,,1,271.23,,Paypal,Pending,12-09-2023
+ORD-1990,Rahul@,,P_300,Fashion,10,263.06,,Cash on Delivery,Pending,08-11-2023
+ORD-1963,Ankit#,wrong@email@.com,,,5,127.94,,,Cancelled,26-12-2023
+ORD-1389,S@nja y,demo@outlook.com,P#200,Electronics,1,245.23,,Cash on Delivery,,14-05-2023
+ORD-1007,Neha!!,wrong@email@.com,P-100@,Home & Kitchen,2,229.33,,Net banking,Delivered,05-10-2023
+ORD-1738,Priya,,P#200,Electronics,1,327.13,,Paypal,,15-09-2023
+ORD-1411,Rohit,demo@outlook.com,P-100@,,10,335.79,,,,24-02-2023
+ORD-1352,Rohit,,P#200,Home & Kitchen,5,70.39,,Paypal,Pending,09-04-2023
+ORD-1427,,demo@outlook.com,P-100@,,,218.58,,Paypal,Delivered,20-03-2023
+ORD-1907,Priya,test@yahoo.com,,,10,331.64,,Paypal,Delivered,05-10-2023
+ORD-1403,Ankit#,test@yahoo.com,P 400,Home & Kitchen,1,276.41,,Net banking,,29-05-2023
+ORD-1650,Rahul@,wrong@email@.com,P-100@,Fashion,10,435.42,,Credit Card,Delivered,06/17/2023
+ORD-1713,Priya,wrong@email@.com,,Home & Kitchen,2,346.41,,,,19-10-2023
+ORD-1868,S@nja y,,P-100@,Fashion,1,123.32,,Net banking,Cancelled,12-10-2023
+ORD-1194,Priya,test@yahoo.com,P_300,Fashion,1,81.76,,Paypal,Pending,07/17/2023
+ORD-1876,Amit$,demo@outlook.com,P-100@,Home & Kitchen,2,339.09,,Cash on Delivery,Delivered,04-10-2023
+ORD-2194,Neha!!,wrong@email@.com,P_300,Electronics,5,61.93,,,Pending,08/28/2023
+ORD-2029,,test@yahoo.com,P#200,Electronics,1,313.6,,Credit Card,,01/26/2023
+ORD-1283,S@nja y,test@yahoo.com,P 400,Electronics,1,473.1,,Cash on Delivery,,02-10-2023
+ORD-1222,Ankit#,user@gmail.com,P-100@,Fashion,10,308.96,,Cash on Delivery,Delivered,10/19/2023
+ORD-2095,Priya,user@gmail.com,,,10,224.68,,Paypal,Pending,07/20/2023
+ORD-1013,,wrong@email@.com,,Fashion,,339.48,,Net banking,Pending,07-05-2023
+ORD-1197,Amit$,user@gmail.com,P-100@,Electronics,,256.21,,Cash on Delivery,,01-07-2023
+ORD-1157,Rahul@,test@yahoo.com,P-100@,Fashion,,295.53,,Credit Card,Cancelled,12/14/2023
+ORD-1514,Rohit,test@yahoo.com,P-100@,Electronics,,473.66,,Cash on Delivery,,09-07-2023
+ORD-1096,Rahul@,demo@outlook.com,P_300,Electronics,2,223.75,,,Cancelled,08-05-2023
+ORD-1076,,user@gmail.com,P-100@,Home & Kitchen,5,482.54,,Cash on Delivery,Pending,03-03-2023
+ORD-1087,Neha!!,demo@outlook.com,P 400,Home & Kitchen,2,457.41,,Paypal,Pending,28-01-2023
+ORD-1762,S@nja y,test@yahoo.com,,Electronics,1,138.11,,Credit Card,Delivered,11-11-2023
+ORD-1085,Priya,user@gmail.com,P_300,Electronics,5,81.21,,Cash on Delivery,,06-11-2023
+ORD-1663,Rohit,,P_300,,1,95.35,,Paypal,Pending,02-06-2023
+ORD-1050,Neha!!,user@gmail.com,P_300,Fashion,,58.2,,Cash on Delivery,Cancelled,13-05-2023
+ORD-1776,Priya,,,Fashion,1,92.5,,Net banking,Delivered,26-04-2023
+ORD-1171,Rahul@,,P-100@,Home & Kitchen,5,357.35,,Cash on Delivery,Pending,06-05-2023
+ORD-1388,Neha!!,demo@outlook.com,,Electronics,1,82.03,,Cash on Delivery,Pending,17-10-2023
+ORD-2096,Rahul@,wrong@email@.com,P_300,,5,193.54,,Cash on Delivery,Pending,08-05-2023
+ORD-1244,S@nja y,test@yahoo.com,P-100@,,1,430.19,,Cash on Delivery,Delivered,08/19/2023
+ORD-1045,S@nja y,user@gmail.com,P 400,,5,60.47,,Credit Card,Pending,10/21/2023
+ ORD-1080 ,Ankit#,test@yahoo.com,P-100@,Home & Kitchen,,416.51,,,,12-02-2023
+ORD-2035,Priya,demo@outlook.com,P 400,Home & Kitchen,,176.83,,Paypal,Pending,30-07-2023
+ORD-1422,Amit$,wrong@email@.com,P 400,Fashion,,103.17,,Paypal,Pending,06/19/2023
+ORD-1054,Amit$,test@yahoo.com,P#200,Electronics,10,363.53,,Cash on Delivery,Pending,12/15/2023
+ORD-2084,S@nja y,demo@outlook.com,,Fashion,5,333.02,,Paypal,Pending,11-02-2023
+ORD-1338,Amit$,wrong@email@.com,,,5,444.86,,Paypal,Pending,02-08-2023
+ORD-1644,Amit$,user@gmail.com,P_300,,,380.78,,Paypal,Delivered,04/13/2023
+ORD-1664,Neha!!,demo@outlook.com,P-100@,,5,411.57,,Net banking,,09/28/2023
+ORD-2127,S@nja y,,P 400,,,176.92,,Credit Card,,22-02-2023
+ORD-1643,Priya,user@gmail.com,P#200,,10,129.85,,Credit Card,Delivered,07/29/2023
+ORD-1749,Rahul@,,P_300,Home & Kitchen,10,387.78,,Credit Card,Cancelled,10-06-2023
+ORD-1081,Ankit#,demo@outlook.com,P 400,Fashion,2,413.08,,Net banking,Pending,08/24/2023
+ORD-1078,Rohit,test@yahoo.com,,Electronics,,495.73,,Credit Card,Delivered,09/17/2023
+ ORD-2040 ,Amit$,demo@outlook.com,P#200,Fashion,5,235.68,,Paypal,Pending,02/17/2023
+ORD-1922,Neha!!,test@yahoo.com,P-100@,Fashion,5,217.41,,,Pending,11-06-2023
+ORD-1959,S@nja y,test@yahoo.com,,,1,399.39,,Credit Card,Pending,12-05-2023
+ORD-1866,Neha!!,demo@outlook.com,P#200,,,203.36,,,Delivered,01-09-2023
+ORD-1112,Neha!!,wrong@email@.com,,Home & Kitchen,1,468.84,,Net banking,Pending,03-04-2023
+ORD-1187,S@nja y,,P-100@,Home & Kitchen,,436.29,,Paypal,,16-03-2023
+ORD-1402,,,P_300,,2,243.05,,Paypal,,15-09-2023
+ORD-1327,Amit$,,,Home & Kitchen,,387.89,,Credit Card,Delivered,07/14/2023
+ORD-1783,Ankit#,demo@outlook.com,,Home & Kitchen,2,389.54,,Paypal,Pending,31-12-2023
+ORD-1539,Neha!!,user@gmail.com,P#200,,1,96.41,,Net banking,,04/16/2023
+ORD-1698,Amit$,test@yahoo.com,P#200,Fashion,2,456.15,,Net banking,Delivered,14-06-2023
+ORD-1377,Priya,demo@outlook.com,P-100@,Fashion,,277.36,,,,10-06-2023
+ORD-1615,S@nja y,,P-100@,Home & Kitchen,2,421.91,,,Cancelled,07/14/2023
+ORD-1707,Amit$,demo@outlook.com,,Electronics,,194.02,,Cash on Delivery,Cancelled,10-07-2023
+ORD-1008,Priya,wrong@email@.com,,Home & Kitchen,2,452.99,,Net banking,Cancelled,08-11-2023
+ORD-1643,S@nja y,test@yahoo.com,P#200,Fashion,2,225.14,,Cash on Delivery,Delivered,02/16/2023
+ORD-1659,Priya,test@yahoo.com,P-100@,Home & Kitchen,10,54.88,,Credit Card,,12-02-2023
+ORD-1104,S@nja y,test@yahoo.com,P 400,Fashion,5,457.42,,Net banking,Pending,18-08-2023
+ORD-1132,Rohit,,P-100@,Home & Kitchen,5,91.08,,Cash on Delivery,,09-12-2023
+ ORD-1220 ,Rahul@,demo@outlook.com,,,5,193.69,,Cash on Delivery,Delivered,31-07-2023
+ORD-1726,Neha!!,test@yahoo.com,P 400,Fashion,2,477.53,,Credit Card,Pending,05-06-2023
+ORD-2107,Ankit#,user@gmail.com,,Fashion,,477.77,,,,10/29/2023
+ORD-1745,Priya,user@gmail.com,,Fashion,1,308.05,,Paypal,Pending,12/22/2023
+ORD-2084,Rahul@,wrong@email@.com,P-100@,,1,334.33,,,Delivered,12/21/2023
+ORD-1866,,wrong@email@.com,,,5,251.8,,Credit Card,Delivered,08-04-2023
+ORD-1021,Amit$,test@yahoo.com,P#200,Electronics,2,181.94,,,,05-07-2023
+ORD-1994,Rahul@,wrong@email@.com,P 400,Home & Kitchen,10,197.9,,Paypal,Delivered,02-02-2023
+ORD-1351,Ankit#,test@yahoo.com,P#200,Fashion,1,352.63,,Net banking,Pending,25-02-2023
+ORD-1747,,test@yahoo.com,P-100@,,1,388.57,,,Cancelled,20-10-2023
+ORD-1310,Ankit#,demo@outlook.com,P-100@,Electronics,2,406.21,,Net banking,Delivered,04-02-2023
+ORD-1529,Priya,user@gmail.com,P 400,,,405.33,,Paypal,Delivered,03-03-2023
+ORD-2017,Rohit,demo@outlook.com,,Fashion,,91.04,,Net banking,,09-11-2023
+ORD-1676,Ankit#,test@yahoo.com,,Electronics,5,272.49,,Net banking,Delivered,19-07-2023
+ORD-1547,Priya,,P-100@,,,75.9,,Paypal,Cancelled,08-12-2023
+ORD-1837,Ankit#,wrong@email@.com,P 400,Home & Kitchen,10,297.29,,Credit Card,Pending,05/27/2023
+ORD-1867,Amit$,user@gmail.com,P#200,Fashion,5,248.69,,,Delivered,12/16/2023
+ORD-1423,Rahul@,test@yahoo.com,P 400,Fashion,10,449.47,,Cash on Delivery,Pending,06-06-2023
+ORD-1068,Ankit#,demo@outlook.com,,,10,207.91,,Cash on Delivery,,04-04-2023
+ORD-1518,Priya,user@gmail.com,P-100@,Fashion,1,102.68,,Paypal,,11-07-2023
+ORD-1957,Priya,test@yahoo.com,,Home & Kitchen,1,114.35,,Cash on Delivery,Cancelled,10-11-2023
+ORD-1363,Neha!!,user@gmail.com,P_300,Home & Kitchen,1,392.68,,,Delivered,04/21/2023
+ORD-2154,Rahul@,user@gmail.com,P-100@,Fashion,10,328.2,,Cash on Delivery,,26-06-2023
+ORD-2167,Rahul@,wrong@email@.com,,,5,95.51,,Credit Card,Cancelled,22-06-2023
+ORD-1938,S@nja y,user@gmail.com,P-100@,Fashion,,87.85,,Cash on Delivery,,25-04-2023
+ORD-2187,,,P_300,,5,365.44,,Cash on Delivery,Pending,10-08-2023
+ORD-1644,Neha!!,,P-100@,Fashion,,82.74,,Cash on Delivery,,22-07-2023
+ORD-2003,S@nja y,wrong@email@.com,P-100@,Fashion,2,419.84,,Cash on Delivery,Cancelled,01/31/2023
+ORD-1359,Ankit#,test@yahoo.com,P-100@,Electronics,5,367.81,,Paypal,Delivered,28-11-2023
+ORD-1190,Rohit,test@yahoo.com,P 400,Fashion,1,86.61,,,Pending,12-04-2023
+ORD-2179,,demo@outlook.com,P#200,Electronics,2,88.18,,,Delivered,03-02-2023
+ ORD-1460 ,Ankit#,wrong@email@.com,P 400,Electronics,2,493.99,,Paypal,Cancelled,01/18/2023
+ORD-1955,Rahul@,user@gmail.com,P-100@,Electronics,1,218.42,,Cash on Delivery,Delivered,22-09-2023
+ORD-2003,Ankit#,demo@outlook.com,P_300,Home & Kitchen,5,216.79,,Cash on Delivery,Pending,24-01-2023
+ORD-1254,Rahul@,demo@outlook.com,,Electronics,2,415.76,,Net banking,Pending,05-07-2023
+ORD-1754,S@nja y,wrong@email@.com,P 400,Fashion,5,476.26,,Credit Card,,12-02-2023
+ ORD-1040 ,Ankit#,test@yahoo.com,P_300,Home & Kitchen,2,493.7,,Paypal,,08-02-2023
+ORD-1889,Amit$,wrong@email@.com,P_300,,5,389.02,,Net banking,Delivered,28-04-2023
+ORD-1973,,wrong@email@.com,,Fashion,10,219.32,,Credit Card,Pending,19-08-2023
+ORD-1369,Neha!!,user@gmail.com,P_300,Home & Kitchen,2,87.58,,Paypal,Pending,12-10-2023
+ORD-1983,,wrong@email@.com,P 400,Electronics,,399.72,,Cash on Delivery,,02/20/2023
+ORD-1606,Amit$,demo@outlook.com,P-100@,Fashion,10,301.28,,Paypal,,30-06-2023
+ORD-1957,Amit$,user@gmail.com,P-100@,Home & Kitchen,5,240.9,,Paypal,,07-07-2023
+ORD-1708,Amit$,test@yahoo.com,,Fashion,2,457.86,,,,15-12-2023
+ORD-1722,,test@yahoo.com,P-100@,Electronics,1,100.04,,Credit Card,Delivered,11/13/2023
+ORD-2014,S@nja y,wrong@email@.com,P#200,Home & Kitchen,5,271.68,,Net banking,Cancelled,11/26/2023
+ORD-1123,,,P_300,Electronics,2,55.11,,Paypal,Cancelled,12/30/2023
+ORD-1377,,user@gmail.com,,Home & Kitchen,5,260.9,,,Cancelled,12-09-2023
+ORD-2055,Rahul@,test@yahoo.com,P-100@,Home & Kitchen,2,75.34,,Paypal,Cancelled,08-02-2023
+ORD-2053,S@nja y,user@gmail.com,P#200,Home & Kitchen,1,103.47,,Net banking,Pending,07-01-2023
+ ORD-1860 ,Priya,demo@outlook.com,P#200,Electronics,2,102.89,,Net banking,Delivered,01/30/2023
+ORD-2037,Amit$,,P#200,Electronics,10,342.14,,Paypal,Delivered,09/26/2023
+ORD-1552,Amit$,user@gmail.com,P-100@,Home & Kitchen,,385.72,,,Delivered,01/27/2023
+ORD-1501,Ankit#,test@yahoo.com,P-100@,Fashion,5,312.52,,,Delivered,19-05-2023
+ORD-1148,Priya,user@gmail.com,P 400,Fashion,10,482.98,,Net banking,Delivered,08/25/2023
+ORD-1119,Ankit#,demo@outlook.com,P_300,Home & Kitchen,5,218.69,,,Cancelled,06/13/2023
+ORD-1643,Rohit,,P 400,,10,178.57,,Net banking,Cancelled,06/16/2023
+ORD-1206,Neha!!,demo@outlook.com,P#200,Fashion,,440.87,,Paypal,Cancelled,08-03-2023
+ORD-1447,Ankit#,wrong@email@.com,,,5,150.62,,Credit Card,Cancelled,18-08-2023
+ORD-1690,Rahul@,demo@outlook.com,,,,483.45,,,Pending,10-05-2023
+ORD-1501,S@nja y,,P-100@,Electronics,10,55.47,,Credit Card,Cancelled,26-10-2023
+ORD-1004,Ankit#,test@yahoo.com,P#200,Fashion,1,486.45,,,Pending,02/18/2023
+ORD-1878,Ankit#,,,,10,69.42,,Net banking,,10-06-2023
+ORD-1218,Neha!!,,P-100@,Fashion,5,451.01,,,Delivered,25-06-2023
+ORD-1238,Rahul@,test@yahoo.com,,Electronics,1,287.47,,Credit Card,Delivered,29-07-2023
+ORD-1695,Priya,demo@outlook.com,P#200,Home & Kitchen,10,496.83,,Paypal,,12-07-2023
+ORD-2103,Neha!!,demo@outlook.com,P#200,Electronics,5,83.21,,Cash on Delivery,Cancelled,06/20/2023
+ORD-1933,Amit$,,P 400,Electronics,10,299.23,,Paypal,Delivered,14-06-2023
+ORD-1993,Neha!!,test@yahoo.com,P#200,Electronics,,486.19,,Net banking,,22-07-2023
+ORD-1363,Rohit,test@yahoo.com,P 400,Electronics,,285.39,,Net banking,Delivered,05-02-2023
+ORD-1338,Priya,test@yahoo.com,P-100@,Home & Kitchen,5,333.23,,Net banking,Cancelled,15-03-2023
+ ORD-1620 ,Rohit,wrong@email@.com,,Home & Kitchen,1,363.09,,Net banking,Pending,12-09-2023
+ORD-1813,S@nja y,demo@outlook.com,P-100@,Fashion,1,254.54,,Paypal,Cancelled,11-09-2023
+ORD-1997,Amit$,demo@outlook.com,P_300,Home & Kitchen,,332.4,,,Cancelled,08-10-2023
+ORD-1809,Priya,demo@outlook.com,P-100@,Home & Kitchen,,312.94,,Credit Card,Pending,15-11-2023
+ORD-1285,Priya,test@yahoo.com,P-100@,Fashion,,455.52,,Cash on Delivery,Delivered,20-04-2023
+ORD-1837,,wrong@email@.com,P-100@,Electronics,2,70.45,,Credit Card,Pending,06-06-2023
+ORD-1228,Priya,wrong@email@.com,P#200,Home & Kitchen,2,176.43,,,Cancelled,03/19/2023
+ORD-1350,Rahul@,demo@outlook.com,,Fashion,1,477.69,,Net banking,Pending,21-06-2023
+ORD-1932,Rahul@,demo@outlook.com,P#200,Electronics,2,450.62,,Credit Card,Cancelled,06-04-2023
+ ORD-1320 ,S@nja y,user@gmail.com,P-100@,Electronics,1,255.05,,Cash on Delivery,Delivered,13-11-2023
+ORD-1922,,test@yahoo.com,P_300,,5,329.06,,Cash on Delivery,,11-03-2023
+ ORD-1440 ,Neha!!,demo@outlook.com,P#200,Home & Kitchen,1,174.82,,Net banking,Cancelled,17-03-2023
+ORD-1136,Amit$,,P-100@,Fashion,2,134.65,,Cash on Delivery,Delivered,07/15/2023
+ORD-1903,,demo@outlook.com,P_300,Fashion,1,258.66,,Net banking,,20-08-2023
+ORD-1108,S@nja y,demo@outlook.com,P 400,Fashion,2,209.01,,Net banking,Cancelled,03/20/2023
+ORD-1715,,demo@outlook.com,P#200,Electronics,10,312.65,,,Delivered,03-05-2023
+ORD-1283,Ankit#,user@gmail.com,P 400,Electronics,,84.98,,Paypal,Cancelled,05-10-2023
+ORD-1401,Rohit,demo@outlook.com,,Home & Kitchen,2,488.48,,Net banking,Delivered,03-12-2023
+ORD-1932,Priya,test@yahoo.com,P 400,,10,493.79,,Net banking,Cancelled,02-02-2023
+ORD-1944,Neha!!,demo@outlook.com,,Fashion,10,364.17,,Credit Card,Pending,07-04-2023
+ORD-1183,,demo@outlook.com,P 400,,5,291.24,,,,27-02-2023
+ORD-1163,Amit$,test@yahoo.com,,Electronics,2,189.29,,Paypal,Delivered,01/29/2023
+ORD-2189,Priya,,P 400,Fashion,10,416.21,,Credit Card,Cancelled,29-03-2023
+ORD-1491,,wrong@email@.com,P 400,Home & Kitchen,5,358.13,,Net banking,,05/24/2023
+ORD-1747,Rohit,test@yahoo.com,P 400,Fashion,,123.18,,,Pending,03-05-2023
+ORD-2117,Rohit,,P_300,Electronics,1,459.92,,,Delivered,05/24/2023
+ORD-2087,S@nja y,demo@outlook.com,P_300,Fashion,1,420.14,,,Cancelled,09/28/2023
+ORD-1871,Rohit,demo@outlook.com,P 400,Electronics,5,477.41,,,Pending,17-03-2023
+ORD-2048,Rahul@,user@gmail.com,P-100@,Home & Kitchen,10,376.57,,Net banking,Cancelled,04-02-2023
+ORD-2123,S@nja y,wrong@email@.com,P-100@,Electronics,,326.04,,,Cancelled,25-06-2023
+ORD-1767,,,P 400,Electronics,,238.21,,Credit Card,Pending,26-02-2023
+ORD-1752,Priya,test@yahoo.com,,Electronics,,469.73,,Cash on Delivery,Cancelled,11-01-2023
+ORD-1197,Priya,test@yahoo.com,P-100@,Electronics,5,439.73,,Paypal,Cancelled,17-05-2023
+ORD-2082,Neha!!,test@yahoo.com,P 400,Home & Kitchen,10,70.35,,Cash on Delivery,Pending,02-09-2023
+ORD-1233,Rohit,user@gmail.com,P_300,Fashion,2,61.87,,Credit Card,Pending,09/17/2023
+ORD-1989,Neha!!,demo@outlook.com,P-100@,Fashion,1,219.41,,,Cancelled,08/17/2023
+ORD-1105,Priya,user@gmail.com,P 400,Home & Kitchen,,414.75,,,,11/21/2023
+ORD-1727,Rohit,user@gmail.com,,Electronics,5,494.27,,Credit Card,Pending,11/24/2023
+ORD-1844,Amit$,wrong@email@.com,,,5,117.69,,Net banking,Pending,12-10-2023
+ORD-1491,Rohit,demo@outlook.com,P#200,,,317.36,,Paypal,Pending,07-04-2023
+ORD-1624,Amit$,wrong@email@.com,P_300,Home & Kitchen,,221.4,,Cash on Delivery,Cancelled,15-03-2023
+ORD-1635,Amit$,,P-100@,,5,486.46,,Credit Card,,07/16/2023
+ORD-1894,Rohit,demo@outlook.com,P 400,Home & Kitchen,,428.95,,Credit Card,,03/24/2023
+ORD-1556,,demo@outlook.com,P#200,Electronics,5,427.25,,Net banking,Cancelled,13-03-2023
+ORD-1477,Ankit#,wrong@email@.com,P-100@,,,260.91,,Net banking,,05/25/2023
+ORD-1290,Amit$,demo@outlook.com,P-100@,,2,236.67,,Cash on Delivery,,30-07-2023
+ORD-1434,Amit$,,P#200,Fashion,5,173.03,,Paypal,,25-07-2023
+ORD-1507,Rahul@,test@yahoo.com,,,10,75.37,,Credit Card,,10-07-2023
+ORD-1122,Rahul@,wrong@email@.com,P-100@,Electronics,10,439.13,,,Pending,15-12-2023
+ORD-1844,Rohit,user@gmail.com,,Electronics,5,415.81,,Net banking,Cancelled,06-05-2023
+ORD-1753,Ankit#,demo@outlook.com,,Home & Kitchen,2,499.87,,Credit Card,,11-01-2023
+ORD-1708,Rahul@,test@yahoo.com,P_300,,,498.49,,Net banking,Cancelled,23-03-2023
+ORD-1962,Amit$,user@gmail.com,P 400,Electronics,5,299.94,,Cash on Delivery,Cancelled,08-02-2023
+ORD-1307,Amit$,,P#200,Electronics,,396.04,,,Delivered,09-06-2023
+ORD-1668,Amit$,test@yahoo.com,P#200,,1,475.14,,Credit Card,Pending,08-08-2023
+ORD-1922,Priya,user@gmail.com,P#200,Fashion,,432.34,,,Pending,01-08-2023
+ORD-1487,Ankit#,,P-100@,,10,161.31,,Cash on Delivery,Pending,21-11-2023
+ORD-1677,Rohit,user@gmail.com,P#200,,5,252.74,,Net banking,Pending,12/15/2023
+ORD-1032,Ankit#,test@yahoo.com,P#200,Fashion,2,108.12,,,Pending,08-08-2023
+ORD-1288,Priya,demo@outlook.com,P#200,Home & Kitchen,,479.32,,,Delivered,16-03-2023
+ORD-1355,Rahul@,,P#200,Home & Kitchen,10,322.78,,Net banking,Cancelled,12/24/2023
+ORD-1138,Rohit,,P_300,Fashion,1,152.89,,,Cancelled,25-08-2023
+ORD-1413,Neha!!,demo@outlook.com,P_300,Home & Kitchen,,352.27,,Net banking,,10/14/2023
+ORD-1551,Rahul@,,P#200,Electronics,,328.16,,,,23-06-2023
+ORD-1746,Rohit,test@yahoo.com,P 400,Fashion,2,211.17,,Net banking,Cancelled,10/20/2023
+ORD-2086,,wrong@email@.com,P-100@,,1,101.1,,Credit Card,,15-01-2023
+ORD-1514,S@nja y,user@gmail.com,P-100@,Electronics,1,352.21,,Net banking,Pending,01-11-2023
+ORD-1845,Rohit,user@gmail.com,P#200,Home & Kitchen,,284.14,,Net banking,Cancelled,12/19/2023
+ORD-1352,Rohit,wrong@email@.com,P#200,Fashion,10,397.54,,Net banking,,02-02-2023
+ORD-2069,,wrong@email@.com,P#200,Home & Kitchen,2,284.07,,Paypal,Cancelled,11-11-2023
+ORD-1113,S@nja y,user@gmail.com,P 400,Home & Kitchen,2,433.48,,,Pending,24-03-2023
+ORD-2163,Ankit#,user@gmail.com,P#200,Fashion,10,298.36,,Paypal,Delivered,24-05-2023
+ORD-1162,S@nja y,demo@outlook.com,P 400,,10,302.42,,Net banking,Cancelled,09/19/2023
+ORD-1534,,test@yahoo.com,P 400,Electronics,1,444.49,,Net banking,Delivered,14-09-2023
+ORD-1206,Neha!!,user@gmail.com,,Home & Kitchen,2,231.57,,,Cancelled,09/13/2023
+ORD-1374,,user@gmail.com,P 400,Fashion,1,110.31,,Cash on Delivery,Cancelled,07/14/2023
+ORD-1959,Neha!!,test@yahoo.com,P_300,Home & Kitchen,,62.95,,Credit Card,Cancelled,12-05-2023
+ORD-1634,Priya,user@gmail.com,P#200,Electronics,,389.81,,Cash on Delivery,Delivered,12-11-2023
+ORD-1070,Ankit#,wrong@email@.com,P-100@,Electronics,5,329.14,,,Delivered,12-10-2023
+ORD-1837,Ankit#,test@yahoo.com,,Home & Kitchen,5,366.84,,Paypal,,06-10-2023
+ORD-2051,Priya,,P-100@,,5,145.83,,Net banking,Delivered,24-04-2023
+ORD-2005,,wrong@email@.com,,Electronics,5,111.37,,Credit Card,Delivered,02/15/2023
+ORD-1670,Rohit,demo@outlook.com,P_300,Home & Kitchen,10,56.55,,Cash on Delivery,Cancelled,04/14/2023
+ORD-1918,Amit$,test@yahoo.com,P 400,Home & Kitchen,,207.76,,Credit Card,Delivered,31-03-2023
+ORD-1845,Ankit#,user@gmail.com,P 400,,5,315.46,,Cash on Delivery,Delivered,02/23/2023
+ORD-1554,,user@gmail.com,P-100@,Electronics,,226.51,,,,01/30/2023
+ORD-1130,S@nja y,wrong@email@.com,,Home & Kitchen,,246.86,,Cash on Delivery,Delivered,26-05-2023
+ ORD-1020 ,S@nja y,test@yahoo.com,P_300,Electronics,2,456.87,,Cash on Delivery,Delivered,09/22/2023
+ORD-1297,Amit$,demo@outlook.com,P#200,,,206.71,,Credit Card,,06/24/2023
+ORD-1073,,test@yahoo.com,,Electronics,1,281.3,,,Delivered,02-03-2023
+ORD-1558,Priya,wrong@email@.com,P 400,Fashion,1,402.64,,Net banking,Pending,03-07-2023
+ORD-1603,Rahul@,test@yahoo.com,P-100@,Fashion,1,228.44,,Cash on Delivery,Delivered,09-03-2023
+ORD-1186,Neha!!,wrong@email@.com,,Home & Kitchen,10,329.94,,,Pending,12/30/2023
+ORD-1105,Rohit,user@gmail.com,P-100@,Home & Kitchen,5,438.06,,Net banking,Cancelled,13-09-2023
+ORD-1305,Rohit,wrong@email@.com,P 400,,,477.28,,Net banking,,10-07-2023
+ORD-2199,Neha!!,,P_300,Electronics,1,116.18,,Cash on Delivery,Delivered,08-09-2023
+ORD-1279,Neha!!,user@gmail.com,,Electronics,5,466.96,,Credit Card,,10/31/2023
+ORD-2004,Amit$,,P-100@,Home & Kitchen,1,271.45,,Paypal,Pending,07/22/2023
+ORD-1691,,demo@outlook.com,,Home & Kitchen,10,166.21,,Credit Card,Cancelled,02-10-2023
+ORD-2146,Neha!!,user@gmail.com,P_300,Home & Kitchen,,256.61,,Credit Card,Pending,02-03-2023
+ORD-1117,,demo@outlook.com,,,1,491.01,,Credit Card,Delivered,11-07-2023
+ORD-2161,Rahul@,,P#200,Fashion,2,271.68,,,Pending,09/13/2023
+ORD-1208,Rahul@,,,Electronics,,197.94,,Net banking,Cancelled,22-01-2023
+ORD-1108,Rohit,,P 400,Electronics,10,335.03,,Paypal,Cancelled,06/13/2023
+ORD-1085,S@nja y,wrong@email@.com,P_300,Home & Kitchen,,158.07,,Paypal,,01/23/2023
+ORD-1559,Rohit,wrong@email@.com,,,5,84.14,,,Delivered,03/13/2023
+ORD-1803,Rohit,demo@outlook.com,,Home & Kitchen,,108,,,,23-05-2023
+ORD-2013,,demo@outlook.com,,Fashion,,107.62,,,Pending,11-12-2023
+ ORD-1920 ,Priya,demo@outlook.com,P 400,Fashion,10,118.36,,Cash on Delivery,Pending,02/22/2023
+ORD-1425,Rahul@,wrong@email@.com,,,2,112.47,,Cash on Delivery,Cancelled,11-07-2023
+ORD-1826,S@nja y,,P#200,,5,338.39,,Cash on Delivery,Cancelled,12-12-2023
+ORD-1598,Rohit,wrong@email@.com,P 400,Fashion,5,131.85,,Paypal,Pending,05-09-2023
+ORD-1824,Ankit#,,P_300,Electronics,,205.55,,Credit Card,,07/28/2023
+ORD-1058,Amit$,test@yahoo.com,P_300,Electronics,10,453.55,,Paypal,,17-01-2023
+ORD-1508,Rohit,wrong@email@.com,P-100@,Home & Kitchen,1,263.28,,Paypal,Cancelled,11-10-2023
+ORD-1266,Neha!!,test@yahoo.com,P 400,Fashion,2,350.4,,Paypal,Cancelled,28-05-2023
+ORD-1115,Priya,user@gmail.com,P#200,Electronics,5,127.54,,,,29-10-2023
+ ORD-1440 ,Priya,wrong@email@.com,P-100@,Fashion,2,136.53,,Net banking,,31-03-2023
+ORD-1158,Priya,user@gmail.com,,Fashion,,68.39,,Credit Card,Cancelled,07-03-2023
+ORD-1318,,test@yahoo.com,P 400,Home & Kitchen,,126.02,,Net banking,,21-02-2023
+ORD-1489,Rohit,user@gmail.com,P 400,Electronics,2,175.37,,Paypal,Cancelled,16-02-2023
+ORD-1467,,wrong@email@.com,P-100@,Electronics,,129.65,,Credit Card,Cancelled,01-11-2023
+ORD-1745,S@nja y,,P#200,Electronics,1,89.92,,Net banking,,07/20/2023
+ORD-2168,,wrong@email@.com,P#200,,5,104.29,,,Delivered,05-05-2023
+ORD-1419,Rohit,wrong@email@.com,P_300,Home & Kitchen,2,257.35,,Cash on Delivery,Cancelled,10/29/2023
+ORD-1410,S@nja y,wrong@email@.com,,Home & Kitchen,,142.85,,,Delivered,12/16/2023
+ORD-1485,Ankit#,wrong@email@.com,P#200,Home & Kitchen,10,213.92,,Paypal,Cancelled,11-12-2023
+ORD-1378,Rahul@,user@gmail.com,P#200,Electronics,,276.54,,Cash on Delivery,,10/22/2023
+ORD-1648,Amit$,,P#200,,,360.68,,,Pending,17-04-2023
+ORD-1018,,wrong@email@.com,P 400,Home & Kitchen,1,67.69,,Net banking,,19-03-2023
+ORD-1262,Neha!!,user@gmail.com,P-100@,Fashion,2,409.73,,Credit Card,,01-08-2023
+ORD-1138,,user@gmail.com,,Home & Kitchen,2,332.56,,Cash on Delivery,Cancelled,09-02-2023
+ORD-1010,Amit$,,P-100@,Home & Kitchen,1,86.79,,,Cancelled,02/14/2023
+ORD-1414,Rohit,demo@outlook.com,P 400,Electronics,,443.11,,Cash on Delivery,Pending,07-11-2023
+ORD-1091,Rohit,test@yahoo.com,P#200,Electronics,10,464.39,,Net banking,,18-08-2023
+ORD-1119,S@nja y,user@gmail.com,P-100@,,2,77.49,,,Cancelled,12-03-2023
+ORD-1092,Rohit,demo@outlook.com,P-100@,Home & Kitchen,10,174.59,,,Cancelled,30-08-2023
+ORD-1099,Neha!!,user@gmail.com,,Home & Kitchen,,412.79,,,,23-09-2023
+ORD-1377,Priya,demo@outlook.com,,Home & Kitchen,2,386.72,,Cash on Delivery,Delivered,09-04-2023
+ORD-1269,Amit$,user@gmail.com,P_300,Fashion,5,133.03,,Net banking,Pending,07/18/2023
+ORD-1057,Rohit,,P#200,Electronics,,144.21,,Paypal,,01/26/2023
+ORD-1197,Ankit#,wrong@email@.com,P 400,Home & Kitchen,5,216.71,,,,07-11-2023
+ORD-1441,S@nja y,test@yahoo.com,P_300,Electronics,10,268.04,,,,07/26/2023
+ ORD-1880 ,Ankit#,demo@outlook.com,P_300,,10,328.21,,Net banking,Cancelled,06-10-2023
+ORD-1167,Neha!!,user@gmail.com,P#200,Home & Kitchen,1,216.01,,Cash on Delivery,Delivered,10-11-2023
+ORD-1025,S@nja y,user@gmail.com,P_300,,,258.14,,Credit Card,,06/29/2023
+ORD-1405,Ankit#,demo@outlook.com,,,1,386.36,,Paypal,,21-04-2023
+ORD-1753,Priya,,P 400,Fashion,5,66.51,,Credit Card,Delivered,16-01-2023
+ORD-1561,Ankit#,,P-100@,Home & Kitchen,2,163.6,,,Pending,11/28/2023
+ORD-1661,Rahul@,user@gmail.com,P-100@,Home & Kitchen,,371.01,,Net banking,,08/28/2023
+ORD-2056,Rahul@,test@yahoo.com,P 400,Fashion,5,452.84,,Net banking,Cancelled,12-04-2023
+ORD-1958,Amit$,wrong@email@.com,P#200,Electronics,,280.25,,Credit Card,Pending,23-06-2023
+ORD-1730,S@nja y,test@yahoo.com,P_300,Home & Kitchen,10,289.45,,,Cancelled,11/29/2023
+ORD-1393,Rahul@,demo@outlook.com,P-100@,,10,98.23,,Paypal,Pending,02-06-2023
+ORD-1212,Rahul@,demo@outlook.com,P 400,Electronics,10,251.34,,Paypal,Delivered,09-03-2023
+ORD-2001,Rahul@,user@gmail.com,,Fashion,1,289.68,,Credit Card,Pending,05/14/2023
+ORD-1352,,test@yahoo.com,P 400,Home & Kitchen,10,159.11,,Net banking,Cancelled,03-09-2023
+ORD-1968,Ankit#,,P_300,,10,171.16,,Credit Card,Pending,27-05-2023
+ORD-2168,Rahul@,test@yahoo.com,P_300,,,219.78,,,Cancelled,08-12-2023
+ORD-2039,Neha!!,user@gmail.com,P#200,Home & Kitchen,1,59.03,,Net banking,Cancelled,19-12-2023
+ORD-1455,Rahul@,test@yahoo.com,P-100@,Electronics,10,194.94,,Cash on Delivery,Delivered,07/18/2023
+ORD-1424,Ankit#,,P-100@,Home & Kitchen,,145.15,,Net banking,Pending,25-06-2023
+ORD-2094,Ankit#,wrong@email@.com,P#200,Electronics,10,197.37,,Cash on Delivery,Pending,25-02-2023
+ORD-1231,Amit$,user@gmail.com,,,1,103.89,,Net banking,Pending,11-03-2023
+ ORD-1260 ,Ankit#,,P-100@,Home & Kitchen,10,450.74,,Cash on Delivery,Delivered,10-11-2023
+ORD-1946,Rohit,test@yahoo.com,P_300,Home & Kitchen,,317.12,,Net banking,Pending,22-07-2023
+ORD-2076,Rahul@,test@yahoo.com,P#200,,,355.6,,Paypal,Pending,04/30/2023
+ORD-1397,Neha!!,,P-100@,Electronics,10,405.13,,Paypal,Cancelled,03-05-2023
+ORD-1001,Priya,test@yahoo.com,,Home & Kitchen,10,274.3,,,Delivered,02/18/2023
+ORD-1103,Rohit,wrong@email@.com,P-100@,,5,89.11,,Cash on Delivery,Delivered,08-02-2023
+ORD-1811,Priya,,,Fashion,10,291.7,,,Pending,10-02-2023
+ORD-1558,S@nja y,wrong@email@.com,P#200,Home & Kitchen,5,314.08,,,Cancelled,05/31/2023
+ORD-1384,Rahul@,demo@outlook.com,P 400,Fashion,,385.45,,,Pending,25-02-2023
+ORD-1248,Rahul@,,P-100@,Home & Kitchen,10,244.25,,Paypal,,04-10-2023
+ORD-1190,Neha!!,user@gmail.com,P_300,Fashion,1,107.41,,Net banking,Cancelled,04/13/2023
+ORD-1131,Rohit,wrong@email@.com,P 400,Fashion,2,177.7,,Net banking,Delivered,05-05-2023
+ORD-1452,Rahul@,demo@outlook.com,,,,213.39,,Net banking,Cancelled,07-06-2023
+ORD-1835,Neha!!,test@yahoo.com,P_300,Fashion,10,340.66,,Paypal,Delivered,02/28/2023
+ORD-1479,S@nja y,demo@outlook.com,P 400,Electronics,5,306.85,,,Cancelled,03-08-2023
+ORD-1629,S@nja y,user@gmail.com,,Electronics,1,210.24,,Cash on Delivery,Cancelled,12/31/2023
+ORD-1319,Amit$,user@gmail.com,P#200,,2,493.93,,Paypal,Pending,26-04-2023
+ORD-1610,Amit$,demo@outlook.com,P#200,,,322.6,,,,11/19/2023
+ORD-1241,Amit$,user@gmail.com,P_300,Home & Kitchen,10,156.75,,,Pending,03-01-2023
+ORD-1628,Amit$,wrong@email@.com,P#200,,10,95.8,,Credit Card,Delivered,08/29/2023
+ORD-1558,Neha!!,test@yahoo.com,P-100@,Electronics,5,118.79,,Paypal,Cancelled,30-10-2023
+ORD-1787,Priya,demo@outlook.com,P-100@,Home & Kitchen,1,160.68,,,Pending,15-12-2023
+ORD-1662,Amit$,,P#200,Electronics,2,122.31,,Cash on Delivery,Cancelled,02/22/2023
+ORD-2048,Rahul@,user@gmail.com,,,10,133.96,,Cash on Delivery,,03-03-2023
+ORD-1424,,user@gmail.com,,Home & Kitchen,,178.29,,Paypal,Pending,02-12-2023
+ORD-1982,Priya,test@yahoo.com,P_300,Electronics,5,128.02,,Net banking,,01-03-2023
+ORD-1930,Rohit,wrong@email@.com,P 400,Fashion,,453.54,,Net banking,Pending,07/21/2023
+ORD-2009,Rahul@,user@gmail.com,P 400,Home & Kitchen,10,86.11,,Credit Card,Delivered,27-11-2023
+ORD-1034,S@nja y,demo@outlook.com,P#200,,10,286.03,,Cash on Delivery,Delivered,01/15/2023
+ORD-2189,Amit$,user@gmail.com,P-100@,,,234.68,,Net banking,Delivered,03/30/2023
+ORD-1982,Amit$,demo@outlook.com,P#200,,10,492.07,,Paypal,Pending,08/28/2023
+ORD-2117,Rohit,test@yahoo.com,,Home & Kitchen,2,100.42,,Cash on Delivery,,12/16/2023
+ORD-2114,Amit$,test@yahoo.com,P#200,Electronics,1,229.04,,Paypal,Cancelled,10-09-2023
+ORD-1509,Amit$,demo@outlook.com,P#200,Fashion,2,486.26,,Net banking,Cancelled,02-05-2023
+ORD-1174,Amit$,wrong@email@.com,P#200,Electronics,,439.48,,,,03-02-2023
+ORD-1556,Priya,user@gmail.com,P#200,Electronics,,417.68,,Credit Card,Delivered,23-03-2023
+ORD-1152,,demo@outlook.com,P#200,Home & Kitchen,,166.06,,Credit Card,,16-08-2023
+ORD-1744,S@nja y,demo@outlook.com,P-100@,Electronics,,126.9,,,Cancelled,02/13/2023
+ORD-1859,Neha!!,wrong@email@.com,P_300,Fashion,,350.89,,Credit Card,Delivered,18-11-2023
+ORD-1615,Rahul@,wrong@email@.com,P 400,Electronics,10,468.22,,Cash on Delivery,Pending,02/20/2023
+ORD-1451,Amit$,test@yahoo.com,P 400,,,300.54,,Cash on Delivery,Delivered,02-09-2023
+ORD-1288,Rohit,test@yahoo.com,P#200,Home & Kitchen,2,307.23,,Credit Card,Cancelled,03-03-2023
+ORD-1333,Rahul@,test@yahoo.com,P_300,Home & Kitchen,,175.99,,,Delivered,02/25/2023
+ORD-1595,Rohit,,P 400,Electronics,2,396.27,,Cash on Delivery,Delivered,03/22/2023
+ORD-1324,S@nja y,demo@outlook.com,P#200,Electronics,,134.17,,Credit Card,Cancelled,06-06-2023
+ORD-1257,Priya,wrong@email@.com,P 400,Electronics,2,195.66,,Paypal,,05-04-2023
+ORD-2169,Neha!!,wrong@email@.com,,,2,241.45,,Credit Card,,07/19/2023
+ORD-1462,Ankit#,test@yahoo.com,P#200,,1,278.42,,,Pending,05/30/2023
+ORD-1851,Neha!!,demo@outlook.com,P-100@,,2,159.08,,Net banking,Delivered,09-05-2023
+ORD-1261,Amit$,,P 400,Home & Kitchen,10,101.68,,,Delivered,10-02-2023
+ORD-2096,S@nja y,,,,10,324.78,,Net banking,Pending,07/27/2023
+ORD-1976,Amit$,user@gmail.com,P#200,Electronics,10,179.88,,,Pending,25-08-2023
+ ORD-2060 ,S@nja y,test@yahoo.com,,Home & Kitchen,,311.56,,Credit Card,,11-04-2023
+ORD-1138,Amit$,demo@outlook.com,P#200,Home & Kitchen,1,119.46,,Paypal,,25-03-2023
+ORD-1025,Rahul@,demo@outlook.com,P_300,,5,266.51,,Cash on Delivery,Cancelled,07/20/2023
+ORD-1948,,test@yahoo.com,P 400,Electronics,,289.67,,Credit Card,Delivered,04-11-2023
+ORD-1902,Rohit,,,Home & Kitchen,10,73.32,,Cash on Delivery,Delivered,15-02-2023
+ORD-2049,Rahul@,test@yahoo.com,P 400,Home & Kitchen,10,201.47,,Paypal,Delivered,06-06-2023
+ORD-1472,Rohit,wrong@email@.com,P#200,Fashion,,110.49,,Paypal,Delivered,10-04-2023
+ORD-1941,Rahul@,wrong@email@.com,P#200,Electronics,,78.52,,Cash on Delivery,Delivered,30-05-2023
+ORD-2148,Rohit,,,,2,495.48,,Paypal,Pending,26-12-2023
+ORD-1666,,user@gmail.com,P 400,Home & Kitchen,10,195.06,,Paypal,Pending,16-04-2023
+ORD-1594,S@nja y,demo@outlook.com,P 400,Home & Kitchen,2,414.44,,Credit Card,Delivered,07-09-2023
+ORD-1941,Rahul@,wrong@email@.com,P_300,,1,164.59,,Paypal,Delivered,10-06-2023
+ORD-1186,,wrong@email@.com,P 400,,5,356.68,,Net banking,Delivered,02-01-2023
+ORD-1032,Rohit,demo@outlook.com,P 400,Electronics,2,392.1,,,,12-05-2023
+ORD-1943,,,P#200,Electronics,2,318.04,,,Delivered,30-08-2023
+ORD-1727,,wrong@email@.com,,Fashion,2,262.21,,Paypal,Pending,08-04-2023
+ORD-2069,,user@gmail.com,P 400,Electronics,10,235.33,,Credit Card,Delivered,12-07-2023
+ORD-1295,S@nja y,wrong@email@.com,P 400,Electronics,2,206.99,,Credit Card,Pending,20-04-2023
+ORD-1378,S@nja y,test@yahoo.com,P#200,Electronics,1,468.29,,Net banking,Pending,12-08-2023
+ORD-1642,Amit$,demo@outlook.com,P#200,Home & Kitchen,2,423.78,,Credit Card,Delivered,15-01-2023
+ORD-1376,Amit$,,P 400,,2,484.26,,Net banking,Pending,09-07-2023
+ORD-1815,Amit$,demo@outlook.com,P 400,,2,105.93,,,,20-07-2023
+ORD-1056,Neha!!,test@yahoo.com,P_300,Home & Kitchen,5,378.89,,Cash on Delivery,Pending,04/24/2023
+ORD-1769,Ankit#,user@gmail.com,P 400,,10,472.25,,,,23-10-2023
+ORD-2161,Rahul@,test@yahoo.com,P 400,Electronics,1,131.55,,Credit Card,Pending,19-07-2023
+ORD-2071,Ankit#,test@yahoo.com,,Electronics,10,79.92,,,Delivered,03-02-2023
+ORD-1019,S@nja y,demo@outlook.com,P_300,Home & Kitchen,10,383.5,,Credit Card,,17-08-2023
+ ORD-1920 ,S@nja y,test@yahoo.com,,Home & Kitchen,5,308.51,,,Cancelled,09-09-2023
+ORD-1394,,test@yahoo.com,,Home & Kitchen,5,428.82,,Credit Card,Pending,07-09-2023
+ORD-1886,Priya,user@gmail.com,,Electronics,5,112.9,,Cash on Delivery,Pending,25-01-2023
+ORD-2151,Priya,test@yahoo.com,P#200,,2,407.87,,Paypal,,12/28/2023
+ORD-1816,,demo@outlook.com,P-100@,,1,140.73,,Credit Card,Delivered,13-03-2023
+ORD-1855,Rohit,demo@outlook.com,,Electronics,10,123.65,,Paypal,Cancelled,02-11-2023
+ ORD-1820 ,Rohit,test@yahoo.com,P-100@,,5,123.92,,Credit Card,Pending,07-03-2023
+ORD-1619,Priya,user@gmail.com,P-100@,Home & Kitchen,2,416.56,,Paypal,Pending,12/23/2023
+ORD-2115,Ankit#,demo@outlook.com,P#200,Electronics,2,349.34,,Paypal,Cancelled,21-05-2023
+ORD-1598,Rahul@,demo@outlook.com,P-100@,Home & Kitchen,10,285.38,,Credit Card,Cancelled,09-11-2023
+ORD-1151,,wrong@email@.com,P-100@,Fashion,10,211.47,,Credit Card,Cancelled,09-02-2023
+ORD-1445,Rahul@,demo@outlook.com,,Electronics,5,444.74,,Paypal,,19-07-2023
+ORD-1702,Ankit#,demo@outlook.com,P_300,Fashion,1,226.6,,Paypal,,20-12-2023
+ORD-1105,Rohit,wrong@email@.com,P-100@,Fashion,10,417.47,,Paypal,,01-09-2023
+ORD-1299,S@nja y,demo@outlook.com,P-100@,Home & Kitchen,1,247.61,,Credit Card,,06-08-2023
+ORD-1742,Priya,user@gmail.com,P 400,,1,219.62,,Credit Card,,20-02-2023
+ORD-1511,,demo@outlook.com,,Home & Kitchen,5,258.21,,Paypal,,08/28/2023
+ORD-2111,Amit$,user@gmail.com,P_300,Home & Kitchen,,185.62,,Paypal,Pending,16-01-2023
+ORD-1452,Ankit#,test@yahoo.com,,Home & Kitchen,5,386.42,,Paypal,Pending,08-08-2023
+ORD-1706,,demo@outlook.com,P 400,,2,276.22,,Paypal,,11/19/2023
+ORD-1758,Neha!!,user@gmail.com,P_300,Home & Kitchen,2,154.5,,Net banking,,05/23/2023
+ORD-1145,Amit$,,P_300,Fashion,2,454.81,,Net banking,Cancelled,04-08-2023
+ORD-1558,Ankit#,test@yahoo.com,P-100@,Fashion,2,222.75,,Net banking,Delivered,07/19/2023
+ORD-2184,,,P_300,Fashion,10,294.6,,Paypal,Pending,08-05-2023
+ORD-2162,Rahul@,user@gmail.com,P#200,Fashion,1,457.91,,Net banking,Delivered,10/14/2023
+ORD-1841,Rohit,user@gmail.com,P-100@,Home & Kitchen,2,330.91,,,Cancelled,02-06-2023
+ORD-1167,Amit$,demo@outlook.com,,Electronics,10,102.6,,,,20-06-2023
+ORD-1654,S@nja y,test@yahoo.com,P_300,,5,472.92,,Credit Card,Pending,04-03-2023
+ORD-1261,Ankit#,demo@outlook.com,P-100@,,10,332.47,,Paypal,,08/30/2023
+ORD-1944,,test@yahoo.com,P-100@,Electronics,10,200.71,,Net banking,Pending,08-12-2023
+ORD-1887,Rahul@,wrong@email@.com,P 400,,10,112.67,,Cash on Delivery,Pending,10-07-2023
+ORD-1491,Ankit#,wrong@email@.com,P#200,Electronics,2,407.31,,,Delivered,24-08-2023
+ORD-1747,Priya,wrong@email@.com,P#200,Fashion,10,329.03,,,Delivered,14-09-2023
+ORD-1562,Rohit,,P#200,Electronics,1,290.06,,Credit Card,Cancelled,19-10-2023
+ORD-1566,Rohit,user@gmail.com,P-100@,Fashion,5,452.25,,Net banking,Pending,12/27/2023
+ORD-1929,Ankit#,test@yahoo.com,,Fashion,2,404.87,,Credit Card,Delivered,08-07-2023
+ORD-2054,Amit$,user@gmail.com,P-100@,Home & Kitchen,,118.25,,Paypal,Delivered,24-03-2023
+ORD-1931,Ankit#,demo@outlook.com,P 400,,,190.27,,Net banking,Pending,01-07-2023
+ORD-2118,Neha!!,demo@outlook.com,P 400,Home & Kitchen,2,161.82,,Net banking,Delivered,01-10-2023
+ORD-1410,Ankit#,user@gmail.com,P#200,,10,384.78,,Credit Card,Delivered,10/27/2023
+ORD-1435,Amit$,user@gmail.com,,Electronics,,65.09,,Credit Card,Cancelled,11-09-2023
+ORD-1304,Rohit,,P-100@,Home & Kitchen,2,306.45,,Credit Card,Pending,04/17/2023
+ORD-1065,Rahul@,user@gmail.com,P#200,Home & Kitchen,10,393.11,,Cash on Delivery,Cancelled,06-05-2023
+ORD-1018,Priya,test@yahoo.com,P-100@,Electronics,5,444.54,,Net banking,Pending,06-02-2023
+ORD-1449,Ankit#,test@yahoo.com,P-100@,Home & Kitchen,2,203.94,,Paypal,Delivered,06/28/2023
+ORD-2092,Priya,user@gmail.com,,,5,419.57,,Net banking,Cancelled,04-07-2023
+ORD-1174,,test@yahoo.com,P 400,Home & Kitchen,2,99.78,,Cash on Delivery,Pending,11/18/2023
+ORD-2016,Amit$,user@gmail.com,P 400,,10,430.9,,Credit Card,Cancelled,02-03-2023
+ORD-2177,Neha!!,user@gmail.com,P 400,Electronics,5,107.37,,Cash on Delivery,,11-02-2023
+ORD-1078,,user@gmail.com,P#200,Home & Kitchen,1,228.78,,Credit Card,,01/24/2023
+ORD-1106,Rahul@,demo@outlook.com,P-100@,,10,408.78,,,,18-08-2023
+ORD-1383,Neha!!,user@gmail.com,P-100@,Fashion,5,117.46,,Cash on Delivery,Delivered,03-01-2023
+ORD-1398,S@nja y,demo@outlook.com,P#200,Electronics,2,153.16,,Net banking,Pending,18-12-2023
+ORD-1838,S@nja y,demo@outlook.com,P-100@,Fashion,,375.01,,Net banking,Pending,17-01-2023
+ ORD-2180 ,Ankit#,demo@outlook.com,P_300,Fashion,5,374.02,,Paypal,Cancelled,30-03-2023
+ORD-1593,Priya,wrong@email@.com,,Fashion,1,338.52,,,Pending,06-03-2023
+ORD-2128,Priya,user@gmail.com,P 400,Electronics,10,362.28,,Paypal,Delivered,21-09-2023
+ORD-2055,S@nja y,,P#200,Electronics,5,294.23,,Net banking,Pending,22-10-2023
+ORD-1608,Priya,user@gmail.com,P#200,,10,163.31,,Net banking,Pending,09/20/2023
+ORD-1539,,demo@outlook.com,P-100@,Electronics,1,205.56,,Paypal,,29-11-2023
+ORD-2119,Rahul@,wrong@email@.com,P#200,Home & Kitchen,2,131.72,,Paypal,,09/26/2023
+ORD-1641,Neha!!,user@gmail.com,P#200,Home & Kitchen,5,458.8,,,Delivered,09/16/2023
+ORD-1307,Priya,demo@outlook.com,,,,312.53,,Paypal,Pending,07/23/2023
+ORD-1610,Neha!!,,P#200,Fashion,,230.38,,Net banking,Delivered,02-10-2023
+ ORD-1900 ,,wrong@email@.com,P#200,Fashion,2,257.9,,Cash on Delivery,Pending,02-08-2023
+ORD-1010,Rahul@,user@gmail.com,P-100@,Fashion,5,476.28,,Credit Card,Cancelled,21-05-2023
+ORD-1759,Rohit,demo@outlook.com,P-100@,Home & Kitchen,10,119.01,,Credit Card,Cancelled,15-05-2023
+ORD-1346,,wrong@email@.com,P_300,Home & Kitchen,,313.8,,Cash on Delivery,Cancelled,05-05-2023
+ORD-1833,Ankit#,demo@outlook.com,,Electronics,2,277.65,,,,07-12-2023
+ ORD-1000 ,Rahul@,user@gmail.com,P 400,,1,325.15,,Net banking,Cancelled,30-08-2023
+ORD-1662,Priya,,P-100@,,,58.15,,Cash on Delivery,Delivered,05-10-2023
+ ORD-1620 ,Amit$,user@gmail.com,P#200,Electronics,,442.46,,Credit Card,Pending,08-11-2023
+ORD-1479,Rahul@,wrong@email@.com,,Fashion,5,469.45,,Cash on Delivery,,25-06-2023
+ORD-1623,Ankit#,wrong@email@.com,P#200,Fashion,1,304.31,,Net banking,,04/24/2023
+ORD-1703,Amit$,,P-100@,,5,363.49,,Paypal,,03-12-2023
+ORD-1552,Priya,,P_300,Fashion,2,465.12,,Net banking,Cancelled,04/24/2023
+ORD-1371,Amit$,wrong@email@.com,P_300,Fashion,10,368.26,,Credit Card,Pending,05/16/2023
+ORD-1381,Ankit#,wrong@email@.com,P_300,,5,118.64,,,Delivered,02/28/2023
+ORD-1344,Amit$,demo@outlook.com,P#200,,,309.33,,,,09/13/2023
+ORD-1966,Ankit#,,P 400,Fashion,10,323.02,,,Cancelled,04/26/2023
+ORD-1452,,,P_300,Fashion,5,240.86,,Cash on Delivery,Delivered,25-01-2023
+ORD-1343,,wrong@email@.com,,Fashion,,381.4,,,Pending,12-10-2023
+ORD-2023,Rohit,user@gmail.com,,Home & Kitchen,10,470.47,,Credit Card,,12-08-2023
+ ORD-1120 ,S@nja y,user@gmail.com,P#200,Home & Kitchen,5,466.51,,Credit Card,,02/14/2023
+ORD-2144,Rohit,,P#200,Home & Kitchen,1,252.88,,Cash on Delivery,Delivered,07/17/2023
+ORD-1837,S@nja y,demo@outlook.com,P_300,Electronics,,100.96,,Paypal,,10-03-2023
+ORD-1747,Ankit#,user@gmail.com,,Fashion,2,493.18,,Paypal,,05/25/2023
+ORD-1379,,wrong@email@.com,,,,427.5,,Credit Card,Pending,06/28/2023
+ORD-1229,Neha!!,user@gmail.com,P-100@,,5,106.1,,,Cancelled,22-06-2023
+ORD-1568,Amit$,user@gmail.com,,,10,464.38,,Net banking,,23-05-2023
+ORD-1789,,test@yahoo.com,P-100@,,1,441.45,,Paypal,Cancelled,08/17/2023
+ORD-1352,Rohit,demo@outlook.com,P_300,Fashion,,283.48,,Credit Card,Delivered,23-04-2023
+ORD-1698,S@nja y,user@gmail.com,P-100@,Home & Kitchen,5,316.07,,Paypal,Cancelled,07/16/2023
+ORD-1981,S@nja y,user@gmail.com,P_300,Electronics,5,229.55,,Paypal,Pending,26-10-2023
+ORD-2072,Priya,,P#200,Fashion,2,74.64,,Cash on Delivery,Pending,12-10-2023
+ORD-1447,Rahul@,wrong@email@.com,,Fashion,10,200.84,,,Delivered,04-07-2023
+ORD-2156,Priya,,P-100@,Electronics,2,411.28,,Credit Card,Pending,04-08-2023
+ORD-1204,Rohit,demo@outlook.com,P-100@,Electronics,10,52.08,,Cash on Delivery,Delivered,06/15/2023
+ORD-2023,Rohit,wrong@email@.com,P 400,Home & Kitchen,2,200.07,,Cash on Delivery,Delivered,03-08-2023
+ORD-1969,S@nja y,wrong@email@.com,,Electronics,5,229.18,,,Pending,02-07-2023
+ORD-1503,,wrong@email@.com,P 400,Home & Kitchen,5,291.83,,,Delivered,07/22/2023
+ORD-1981,Neha!!,demo@outlook.com,,Fashion,2,463.94,,,,03-10-2023
+ORD-1239,S@nja y,user@gmail.com,P-100@,Fashion,2,205.86,,,Cancelled,13-06-2023
+ORD-1572,,wrong@email@.com,P_300,Electronics,,206.13,,Paypal,,17-02-2023
+ORD-1096,,wrong@email@.com,,Fashion,2,381.88,,Credit Card,,06-04-2023
+ORD-1027,,wrong@email@.com,,Fashion,,253.5,,Paypal,,11-05-2023
+ORD-2184,Priya,test@yahoo.com,P#200,Fashion,5,151.07,,Credit Card,Cancelled,02/21/2023
+ORD-1307,Ankit#,wrong@email@.com,P#200,Electronics,2,253.6,,Paypal,Cancelled,11/23/2023
+ORD-2019,Rohit,test@yahoo.com,P-100@,,,113.39,,Net banking,Pending,06-02-2023
+ORD-1455,Amit$,,P#200,Home & Kitchen,,129.37,,Credit Card,,31-10-2023
+ORD-1127,Amit$,demo@outlook.com,P_300,Home & Kitchen,2,274.27,,Net banking,,03-11-2023
+ORD-1798,Neha!!,user@gmail.com,,Home & Kitchen,10,238.52,,,Pending,02/22/2023
+ORD-1358,Rahul@,wrong@email@.com,P#200,Electronics,,461.68,,Paypal,,05-10-2023
+ORD-1239,Rohit,demo@outlook.com,P 400,,10,213.08,,Net banking,,10/23/2023
+ORD-1842,Ankit#,user@gmail.com,,Electronics,1,311.26,,Credit Card,Cancelled,06/18/2023
+ORD-1809,Amit$,,P 400,Electronics,,334.52,,Credit Card,Delivered,23-05-2023
+ORD-1481,Priya,wrong@email@.com,P_300,Electronics,5,55.89,,Net banking,,11-08-2023
+ORD-1385,Rahul@,user@gmail.com,P-100@,Home & Kitchen,10,348.59,,Cash on Delivery,,07-12-2023
+ORD-1849,Rohit,demo@outlook.com,P_300,Fashion,,130.12,,,Pending,03-04-2023
+ORD-1322,Amit$,,P#200,Electronics,5,482.48,,Net banking,Pending,31-12-2023
+ORD-1934,Amit$,wrong@email@.com,P#200,Home & Kitchen,10,116.9,,Net banking,Cancelled,10/16/2023
+ORD-1013,,demo@outlook.com,P-100@,Fashion,1,236.58,,,Delivered,07/15/2023
+ORD-2006,Rohit,,P-100@,Home & Kitchen,5,88.41,,,Cancelled,06-03-2023
+ORD-1416,Neha!!,,P_300,Home & Kitchen,,498.59,,,Cancelled,02-12-2023
+ORD-1573,Priya,wrong@email@.com,P#200,Electronics,2,275.99,,Paypal,Cancelled,13-08-2023
+ORD-2113,,test@yahoo.com,P#200,Home & Kitchen,10,317.92,,Credit Card,Delivered,10/14/2023
+ORD-1393,Amit$,demo@outlook.com,P_300,Home & Kitchen,1,80.18,,Cash on Delivery,Pending,11-03-2023
+ORD-1125,Neha!!,test@yahoo.com,P#200,Home & Kitchen,,387.48,,Paypal,Delivered,27-11-2023
+ORD-1275,Neha!!,demo@outlook.com,P 400,Fashion,5,144.46,,,Cancelled,03/31/2023
+ORD-1845,Neha!!,user@gmail.com,,Electronics,2,454.12,,Net banking,Delivered,15-06-2023
+ORD-1826,,test@yahoo.com,P#200,Fashion,10,142.31,,Paypal,Delivered,23-09-2023
+ORD-1978,Ankit#,demo@outlook.com,,,5,135.81,,Credit Card,,15-12-2023
+ORD-1697,Ankit#,,P 400,Electronics,,66.45,,Credit Card,,11/21/2023
+ORD-1381,Neha!!,user@gmail.com,P 400,Electronics,2,262.43,,Credit Card,Delivered,07/17/2023
+ORD-1354,Rohit,demo@outlook.com,P 400,,2,304.18,,,Cancelled,01/15/2023
+ORD-1564,,,P 400,Electronics,10,79.57,,Paypal,,21-10-2023
+ORD-1671,Neha!!,user@gmail.com,P#200,Fashion,,398.99,,Credit Card,,05/14/2023
+ORD-1683,Ankit#,,P 400,Electronics,10,253.98,,Paypal,Pending,14-11-2023
+ORD-1150,Amit$,user@gmail.com,P_300,Fashion,5,285.98,,Credit Card,Delivered,10/24/2023
+ORD-1726,S@nja y,wrong@email@.com,P#200,Electronics,1,248.34,,,,08-05-2023
+ORD-1005,Amit$,demo@outlook.com,,Home & Kitchen,5,230.34,,Credit Card,Delivered,05-10-2023
+ORD-2032,,user@gmail.com,P 400,Fashion,1,301.84,,Cash on Delivery,Pending,02/26/2023
+ORD-1806,Rahul@,user@gmail.com,P_300,Fashion,,119.86,,Cash on Delivery,Delivered,05/15/2023
+ORD-1878,Rohit,test@yahoo.com,P-100@,Home & Kitchen,1,131.87,,Cash on Delivery,Pending,07-07-2023
+ORD-1721,Rohit,,P_300,,5,437.8,,Net banking,Pending,09-02-2023
+ORD-2097,Priya,,P 400,,5,475.75,,Paypal,,11/21/2023
+ORD-1417,S@nja y,demo@outlook.com,,Home & Kitchen,5,217.99,,Paypal,Cancelled,05-10-2023
+ORD-1910,Rohit,demo@outlook.com,,Home & Kitchen,10,171.84,,Cash on Delivery,Pending,06-06-2023
+ ORD-2100 ,S@nja y,wrong@email@.com,P-100@,Fashion,1,339.8,,Credit Card,Delivered,10/27/2023
+ORD-1679,Amit$,,P 400,,,233.93,,Paypal,Pending,08-07-2023
+ORD-1925,Amit$,,P-100@,Home & Kitchen,10,61.42,,Paypal,,06/25/2023
+ORD-1018,Neha!!,,P#200,,5,120.27,,Net banking,Delivered,01-10-2023
+ORD-1159,Rahul@,demo@outlook.com,P#200,,2,372.19,,Cash on Delivery,,07/23/2023
+ ORD-1980 ,Neha!!,user@gmail.com,P-100@,Fashion,10,346.52,,Paypal,Pending,31-08-2023
+ORD-1974,Rahul@,test@yahoo.com,P#200,,1,62.19,,Credit Card,Delivered,10-04-2023
+ ORD-2140 ,Priya,,,Fashion,10,149.89,,,,30-08-2023
+ ORD-1280 ,Ankit#,user@gmail.com,,Home & Kitchen,5,153.98,,Cash on Delivery,Cancelled,13-11-2023
+ORD-1678,Rohit,user@gmail.com,P 400,,1,352.35,,Paypal,Pending,06-03-2023
+ORD-1114,,wrong@email@.com,P 400,,2,58.87,,,,03-10-2023
+ORD-1270,,user@gmail.com,P-100@,Electronics,1,96.85,,Net banking,Pending,27-05-2023
+ORD-1299,Amit$,test@yahoo.com,P-100@,Electronics,10,409.96,,Credit Card,Delivered,18-05-2023
+ORD-2153,Amit$,test@yahoo.com,P#200,,10,130.35,,,Pending,11/28/2023
+ORD-2048,S@nja y,,P 400,Fashion,1,343.74,,Paypal,Cancelled,04/30/2023
+ORD-1658,Ankit#,,P-100@,,5,157.18,,Cash on Delivery,Cancelled,01-08-2023
+ORD-1783,Amit$,,P-100@,Fashion,5,94.75,,Paypal,Delivered,07/21/2023
+ORD-1107,Rohit,wrong@email@.com,P#200,Home & Kitchen,10,159.43,,Credit Card,Pending,19-08-2023
+ORD-2139,Rohit,test@yahoo.com,,,5,375.02,,Net banking,Pending,10/27/2023
+ORD-1606,Ankit#,test@yahoo.com,P 400,Fashion,2,435.06,,Cash on Delivery,Delivered,23-06-2023
+ORD-1192,Neha!!,wrong@email@.com,P#200,Fashion,10,423.6,,,Cancelled,01/30/2023
+ORD-2021,Neha!!,,P-100@,Electronics,2,228.73,,Credit Card,,08/15/2023
+ORD-1591,Rahul@,,P#200,,2,350.64,,,Cancelled,28-08-2023
+ORD-1564,Amit$,,,Home & Kitchen,10,142.24,,Paypal,Delivered,12-07-2023
+ORD-1124,,user@gmail.com,P_300,Fashion,,181.92,,Net banking,,29-12-2023
+ORD-1693,Neha!!,test@yahoo.com,P 400,Home & Kitchen,2,453.35,,Credit Card,Cancelled,23-02-2023
+ORD-1321,,wrong@email@.com,,Fashion,1,55.85,,Paypal,Cancelled,01-06-2023
+ORD-1082,,user@gmail.com,P#200,Electronics,5,88.48,,Paypal,Delivered,09-10-2023
+ORD-1382,Rahul@,demo@outlook.com,P#200,Fashion,10,143.55,,Net banking,Delivered,06-10-2023
+ORD-1052,Priya,wrong@email@.com,P-100@,Fashion,2,61.94,,,Delivered,10/21/2023
+ORD-1149,Rahul@,test@yahoo.com,P-100@,Electronics,10,131.65,,Paypal,,31-01-2023
+ORD-2168,Rohit,user@gmail.com,P 400,Home & Kitchen,2,312.37,,Credit Card,,05-02-2023
+ ORD-1980 ,,demo@outlook.com,P#200,Electronics,5,239.64,,Cash on Delivery,Pending,19-09-2023
+ORD-2017,Priya,user@gmail.com,,Fashion,2,451.7,,Net banking,,02/17/2023
+ORD-1296,Rohit,test@yahoo.com,P_300,Electronics,5,417.85,,Cash on Delivery,Delivered,11-04-2023
+ORD-2157,Amit$,test@yahoo.com,P#200,Electronics,2,203.82,,Cash on Delivery,,02-02-2023
+ ORD-1060 ,Rahul@,test@yahoo.com,P 400,Fashion,2,166.74,,,Pending,12-12-2023
+ORD-2081,Ankit#,,P 400,,5,220.86,,Net banking,,10-06-2023
+ORD-2158,Rahul@,,P#200,,1,315.63,,Net banking,Delivered,01-09-2023
+ORD-1168,S@nja y,demo@outlook.com,P 400,Fashion,,170.63,,Net banking,Delivered,23-05-2023
+ORD-1491,,,,Electronics,10,330.87,,Paypal,Pending,19-02-2023
+ORD-1193,,user@gmail.com,P#200,Fashion,1,234.24,,Paypal,Cancelled,07-02-2023
+ORD-1649,Rohit,test@yahoo.com,,,5,298.42,,,Cancelled,07/31/2023
+ORD-1354,Rahul@,demo@outlook.com,P#200,Home & Kitchen,2,246.26,,Credit Card,Cancelled,09-11-2023
+ORD-2037,Ankit#,test@yahoo.com,P 400,,2,182.51,,Paypal,Cancelled,31-05-2023
+ORD-1016,Neha!!,wrong@email@.com,P#200,,2,476.8,,Paypal,Cancelled,06/26/2023
+ORD-1154,Priya,,P#200,Fashion,10,393.62,,Cash on Delivery,,05/26/2023
+ORD-1336,Priya,demo@outlook.com,P-100@,,,113.05,,Paypal,Pending,05/22/2023
+ORD-1433,Neha!!,wrong@email@.com,,Electronics,,440.81,,,Delivered,11/14/2023
+ORD-1407,Ankit#,wrong@email@.com,P#200,Electronics,,269.34,,Net banking,Cancelled,10-02-2023
+ORD-1001,S@nja y,test@yahoo.com,P 400,,1,452.55,,,Cancelled,15-10-2023
+ORD-1417,Neha!!,demo@outlook.com,P#200,,2,409.93,,Credit Card,Cancelled,08/18/2023
+ORD-1052,Ankit#,test@yahoo.com,P_300,Electronics,,241.35,,,,12-09-2023
+ORD-1295,Neha!!,test@yahoo.com,P#200,,2,60.11,,Cash on Delivery,Cancelled,06-05-2023
+ ORD-2020 ,Rahul@,demo@outlook.com,,Home & Kitchen,1,170.9,,,Cancelled,13-04-2023
+ORD-1227,Amit$,user@gmail.com,P 400,Fashion,,293.74,,,Cancelled,04-02-2023
+ORD-2056,Neha!!,wrong@email@.com,P#200,Electronics,10,335.07,,Credit Card,Cancelled,09/16/2023
+ORD-1670,Priya,demo@outlook.com,P 400,,5,166.05,,Cash on Delivery,Delivered,05/14/2023
+ORD-1062,Ankit#,user@gmail.com,P-100@,Fashion,5,112.71,,Cash on Delivery,Cancelled,06-07-2023
+ORD-1687,S@nja y,user@gmail.com,P_300,Fashion,1,425.72,,,Cancelled,18-03-2023
+ORD-1484,Neha!!,,,Home & Kitchen,5,492.98,,Net banking,,20-04-2023
+ORD-1808,Rohit,demo@outlook.com,P 400,,2,286.56,,Paypal,Pending,10-03-2023
+ORD-1767,S@nja y,,P_300,Fashion,10,127.26,,,Cancelled,18-05-2023
+ORD-2176,Priya,user@gmail.com,P 400,Home & Kitchen,2,172.54,,,Delivered,07-01-2023
+ORD-2132,Neha!!,demo@outlook.com,,,5,58.28,,Paypal,Cancelled,25-10-2023
+ORD-2078,Ankit#,demo@outlook.com,,Electronics,10,461.43,,,,10-05-2023
+ORD-1543,Rohit,,,Home & Kitchen,2,102.99,,Cash on Delivery,Pending,08-06-2023
+ORD-1384,Rohit,demo@outlook.com,P_300,Home & Kitchen,1,309.43,,Paypal,Pending,07/20/2023
+ORD-1593,S@nja y,user@gmail.com,P#200,Electronics,2,173.32,,,Cancelled,05-04-2023
+ORD-1658,Rohit,user@gmail.com,P_300,Home & Kitchen,5,299.38,,Credit Card,Cancelled,23-12-2023
+ORD-1328,Priya,test@yahoo.com,,Fashion,10,343.14,,Credit Card,,05-07-2023
+ORD-2176,Ankit#,wrong@email@.com,,Electronics,5,423.38,,Net banking,Delivered,24-05-2023
+ORD-1167,Amit$,demo@outlook.com,,,1,142.89,,Paypal,Cancelled,07/13/2023
+ORD-2092,Rohit,test@yahoo.com,P 400,Electronics,10,54.95,,Cash on Delivery,,03-05-2023
+ORD-1094,,demo@outlook.com,P_300,Fashion,10,111.6,,Cash on Delivery,,08-01-2023
+ORD-1269,Rahul@,,P_300,,1,455.01,,Cash on Delivery,Delivered,11/22/2023
+ORD-1217,Amit$,test@yahoo.com,P#200,,1,443.25,,Paypal,Delivered,03-06-2023
+ORD-1749,Priya,wrong@email@.com,,Home & Kitchen,,318.84,,Cash on Delivery,Delivered,04/23/2023
+ORD-1228,Rohit,demo@outlook.com,P_300,,2,320.23,,Paypal,Delivered,31-03-2023
+ORD-1984,,,,Electronics,2,349.27,,,Delivered,21-02-2023
+ORD-2139,,,P#200,Electronics,10,128.92,,,Delivered,09/24/2023
+ORD-1998,Ankit#,test@yahoo.com,P#200,Fashion,2,461.49,,,,03/21/2023
+ORD-1845,Rohit,test@yahoo.com,P-100@,Electronics,10,238.45,,Paypal,Pending,15-04-2023
+ORD-1887,Rahul@,user@gmail.com,P_300,Fashion,2,222.41,,Paypal,Pending,07-04-2023
+ORD-1576,S@nja y,,P-100@,Home & Kitchen,1,283.51,,Paypal,,13-11-2023
+ORD-1485,Amit$,test@yahoo.com,P#200,Electronics,1,71.13,,Paypal,,03/24/2023
+ORD-1695,Ankit#,,P#200,Fashion,5,124.83,,Credit Card,Delivered,01-12-2023
+ORD-1589,Amit$,test@yahoo.com,P 400,Fashion,2,382.12,,Credit Card,Delivered,12-10-2023
+ORD-1924,Neha!!,user@gmail.com,,Fashion,2,87.26,,,Delivered,05-10-2023
+ORD-1663,S@nja y,test@yahoo.com,,,2,321.42,,Credit Card,Delivered,02/23/2023
+ORD-1594,Rohit,demo@outlook.com,P-100@,Fashion,10,160.41,,Net banking,Cancelled,03-01-2023
+ORD-1013,Priya,user@gmail.com,P#200,Electronics,2,225.18,,,,11/17/2023
+ORD-1646,Rohit,demo@outlook.com,P 400,Electronics,2,179.91,,Credit Card,Cancelled,16-06-2023
+ORD-1937,Rahul@,user@gmail.com,P 400,,2,210.05,,Net banking,Delivered,06-04-2023
+ORD-2103,Ankit#,,P#200,,1,373.57,,Cash on Delivery,Cancelled,17-05-2023
+ORD-1932,Rahul@,user@gmail.com,P#200,Electronics,10,183.7,,,Cancelled,06-07-2023
+ORD-1964,Rahul@,wrong@email@.com,P-100@,Fashion,2,304.88,,Credit Card,,22-01-2023
+ORD-1694,Amit$,demo@outlook.com,P#200,,1,264.22,,Net banking,,19-09-2023
+ORD-1777,Ankit#,wrong@email@.com,P 400,,10,348.65,,Paypal,,06/14/2023
+ORD-2046,Priya,wrong@email@.com,,Electronics,2,471.57,,Cash on Delivery,Delivered,14-02-2023
+ORD-1094,Rahul@,test@yahoo.com,P#200,,5,379.66,,Credit Card,,12/31/2023
+ORD-1642,S@nja y,,P#200,,,146.72,,,Delivered,08-11-2023
+ORD-1482,,wrong@email@.com,P-100@,,,64.03,,Credit Card,Cancelled,28-10-2023
+ORD-2170,Ankit#,,P 400,Fashion,2,168.02,,Net banking,,25-05-2023
+ORD-1675,Ankit#,user@gmail.com,P_300,,,317.79,,Paypal,Pending,05/18/2023
+ORD-1909,Priya,,P-100@,,10,73.14,,Net banking,Cancelled,02/24/2023
+ORD-1918,Priya,,P-100@,,5,273.36,,Net banking,Cancelled,12-04-2023
+ORD-1602,Rohit,test@yahoo.com,P 400,Home & Kitchen,10,318.58,,Credit Card,Pending,28-01-2023
+ORD-1642,Amit$,,P 400,Home & Kitchen,1,200.41,,,,19-02-2023
+ORD-1664,Priya,demo@outlook.com,P 400,Fashion,10,396.91,,Credit Card,Delivered,02-04-2023
+ORD-1002,Amit$,wrong@email@.com,P 400,Fashion,1,97.97,,,,10/30/2023
+ORD-1225,Neha!!,wrong@email@.com,,Fashion,2,83.81,,Cash on Delivery,Delivered,02/22/2023
+ORD-1068,Ankit#,,P_300,Fashion,10,377.68,,Cash on Delivery,Cancelled,11-12-2023
+ORD-2010,Rohit,demo@outlook.com,P-100@,Fashion,2,272.97,,Credit Card,,28-03-2023
+ORD-1930,Rohit,wrong@email@.com,P#200,,2,359.78,,,Pending,13-09-2023
+ORD-1306,Neha!!,,P#200,,5,245.67,,Paypal,Pending,02-10-2023
+ORD-1982,Amit$,user@gmail.com,P-100@,Electronics,1,160.88,,Net banking,Pending,03/22/2023
+ORD-1464,Rohit,test@yahoo.com,P#200,Electronics,5,418.6,,Credit Card,,13-04-2023
+ORD-2064,S@nja y,wrong@email@.com,P#200,,5,409.74,,Net banking,Delivered,06-12-2023
+ORD-1766,Rahul@,,P_300,Fashion,,362.61,,Paypal,Delivered,02/27/2023
+ORD-1304,S@nja y,demo@outlook.com,P 400,,,172.47,,,,27-05-2023
+ORD-1743,Neha!!,wrong@email@.com,P#200,Electronics,5,315.6,,Net banking,Delivered,27-03-2023
+ORD-1203,Priya,wrong@email@.com,P-100@,Electronics,10,212.44,,Cash on Delivery,,12-10-2023
+ORD-1918,Neha!!,wrong@email@.com,P-100@,,5,91.21,,Net banking,Delivered,09/22/2023
+ ORD-1540 ,Priya,wrong@email@.com,P 400,Home & Kitchen,1,462.79,,,Cancelled,12-07-2023
+ORD-1016,,user@gmail.com,P 400,,1,111.57,,Credit Card,Delivered,08/30/2023
+ ORD-1420 ,Priya,,P#200,Fashion,,477.61,,Net banking,Delivered,10/21/2023
+ORD-1357,,demo@outlook.com,,Electronics,2,250.7,,Credit Card,,03-07-2023
+ORD-1129,S@nja y,user@gmail.com,P#200,Home & Kitchen,1,133.31,,,Pending,01/15/2023
+ORD-1542,S@nja y,wrong@email@.com,P-100@,Fashion,5,293.86,,Credit Card,,28-03-2023
+ORD-1494,Priya,user@gmail.com,,Home & Kitchen,1,442.83,,Cash on Delivery,Delivered,01/16/2023
+ORD-1197,Ankit#,test@yahoo.com,P_300,Home & Kitchen,1,379.5,,Net banking,,12-11-2023
+ORD-1053,Ankit#,user@gmail.com,P_300,Electronics,,412.95,,Cash on Delivery,Cancelled,06/30/2023
+ORD-1309,Rohit,wrong@email@.com,P#200,,,346.45,,Net banking,Delivered,09-08-2023
+ORD-2030,S@nja y,user@gmail.com,P#200,,2,361.52,,Credit Card,Delivered,02/27/2023
+ORD-1747,Rahul@,demo@outlook.com,P 400,Fashion,1,432.14,,,Pending,01-07-2023
+ORD-1903,Rahul@,wrong@email@.com,,Home & Kitchen,,162.35,,,,12-04-2023
+ORD-2182,Priya,test@yahoo.com,P-100@,Fashion,10,270.24,,Cash on Delivery,Pending,02-02-2023
+ORD-1507,Ankit#,demo@outlook.com,P#200,,,149.54,,Credit Card,Pending,04-02-2023
+ORD-1292,Neha!!,user@gmail.com,,Fashion,5,494.45,,Paypal,Pending,10/31/2023
+ORD-1523,,wrong@email@.com,,,5,474.83,,Net banking,,03/13/2023
+ORD-1838,Rahul@,demo@outlook.com,P#200,Electronics,,67.74,,Credit Card,Pending,01-01-2023
+ORD-2089,Neha!!,demo@outlook.com,P 400,Home & Kitchen,1,367.51,,Paypal,Delivered,01/24/2023
+ORD-2162,Ankit#,demo@outlook.com,P#200,Fashion,10,466.36,,Credit Card,Delivered,15-04-2023
+ORD-1721,Amit$,demo@outlook.com,,Electronics,5,131.26,,Credit Card,Pending,29-07-2023
+ORD-1414,Neha!!,demo@outlook.com,P 400,,10,305.58,,Cash on Delivery,Pending,25-10-2023
+ORD-1498,S@nja y,wrong@email@.com,P#200,Electronics,5,461.97,,Net banking,Pending,04-07-2023
+ORD-2081,Amit$,user@gmail.com,,Fashion,1,65.28,,Cash on Delivery,Cancelled,11/26/2023
+ORD-1975,Amit$,user@gmail.com,P-100@,,,363.84,,Credit Card,Pending,15-06-2023
+ORD-1181,Ankit#,wrong@email@.com,,Electronics,1,183.81,,Paypal,Pending,04-11-2023
+ORD-1171,S@nja y,user@gmail.com,P-100@,Fashion,5,465.98,,Credit Card,Delivered,08/30/2023
+ORD-2115,Rahul@,user@gmail.com,P_300,Home & Kitchen,1,486.98,,Cash on Delivery,Pending,05-07-2023
+ORD-1936,Ankit#,,P_300,,2,474.92,,Paypal,Cancelled,10/28/2023
+ORD-1331,,,P 400,,5,263.4,,Net banking,Cancelled,04/27/2023
+ORD-1656,Priya,user@gmail.com,P-100@,Fashion,2,437.92,,,,04-08-2023
+ORD-1614,Amit$,wrong@email@.com,P_300,Fashion,2,430.05,,Net banking,Cancelled,22-03-2023
+ORD-1659,Neha!!,demo@outlook.com,P-100@,Electronics,5,193.6,,Cash on Delivery,Cancelled,26-08-2023
+ORD-1159,Rohit,,P#200,Fashion,5,423.01,,Cash on Delivery,Delivered,10-12-2023
+ORD-1845,Rohit,demo@outlook.com,P_300,Fashion,2,66.65,,Net banking,,27-03-2023
+ORD-1949,Amit$,wrong@email@.com,,,10,318.32,,Credit Card,,02-06-2023
+ORD-1086,Amit$,demo@outlook.com,,Fashion,2,153.5,,Cash on Delivery,Cancelled,24-06-2023
+ORD-1971,,demo@outlook.com,P 400,Electronics,,104.26,,Paypal,Delivered,10/18/2023
+ORD-1807,Amit$,user@gmail.com,P-100@,Home & Kitchen,2,84.63,,Net banking,Delivered,01-03-2023
+ORD-1303,Neha!!,user@gmail.com,P 400,Home & Kitchen,10,363.33,,,Delivered,01/16/2023
+ORD-2124,Rohit,test@yahoo.com,P_300,,1,202.94,,Paypal,Pending,08-10-2023
+ORD-2098,Rohit,test@yahoo.com,P-100@,,5,376.15,,Cash on Delivery,,03-11-2023
+ORD-1903,Rahul@,user@gmail.com,P-100@,Home & Kitchen,,79.41,,,,25-04-2023
+ORD-2043,Rohit,test@yahoo.com,P-100@,Home & Kitchen,,191.88,,Net banking,,19-05-2023
+ORD-1704,Rohit,test@yahoo.com,,Electronics,2,292.77,,Cash on Delivery,Cancelled,02/23/2023
+ORD-1074,Rahul@,demo@outlook.com,P-100@,Electronics,10,405.83,,Credit Card,Cancelled,21-03-2023
+ORD-1072,Amit$,test@yahoo.com,P#200,,1,193.44,,Cash on Delivery,Pending,16-04-2023
+ORD-1871,S@nja y,test@yahoo.com,P#200,Electronics,10,331.65,,Net banking,Cancelled,01-04-2023
+ORD-1556,Rahul@,demo@outlook.com,P-100@,Home & Kitchen,10,448.69,,Paypal,,20-07-2023
+ ORD-1280 ,Priya,test@yahoo.com,,Home & Kitchen,10,327.14,,Paypal,Cancelled,15-10-2023
+ORD-1655,Ankit#,user@gmail.com,P 400,Electronics,2,154.83,,,Delivered,15-04-2023
+ORD-1722,Neha!!,demo@outlook.com,P#200,Home & Kitchen,5,60.98,,Net banking,,23-04-2023
+ORD-1263,Priya,user@gmail.com,P-100@,Home & Kitchen,10,441.54,,Net banking,Delivered,09-09-2023
+ORD-1998,Amit$,,P-100@,Home & Kitchen,5,59.57,,Credit Card,Cancelled,03/27/2023
+ORD-1339,Rahul@,test@yahoo.com,P-100@,Home & Kitchen,10,443.62,,,Pending,05-08-2023
+ORD-1424,Priya,test@yahoo.com,P#200,Electronics,5,288.02,,,,20-07-2023
+ORD-2037,Rohit,test@yahoo.com,P-100@,,,472.58,,Cash on Delivery,Pending,10/25/2023
+ORD-1413,Ankit#,wrong@email@.com,,Fashion,1,409.45,,Credit Card,Cancelled,24-12-2023
+ORD-1243,S@nja y,,P-100@,,10,499.07,,Net banking,,30-09-2023
+ORD-1807,Amit$,test@yahoo.com,,,5,207.82,,Net banking,,12-04-2023
+ORD-1695,Priya,test@yahoo.com,P_300,Electronics,5,395.23,,Cash on Delivery,Cancelled,10-03-2023
+ORD-1879,Priya,test@yahoo.com,,Home & Kitchen,1,230.87,,Cash on Delivery,,26-11-2023
+ORD-1194,S@nja y,wrong@email@.com,P#200,Electronics,1,265.94,,Credit Card,Delivered,31-07-2023
+ORD-1323,Amit$,demo@outlook.com,P-100@,,2,332.38,,Net banking,Pending,11-07-2023
+ORD-1928,Priya,demo@outlook.com,P-100@,,5,443.15,,Credit Card,,10/20/2023
+ORD-2102,Neha!!,demo@outlook.com,P-100@,Electronics,2,492.84,,Cash on Delivery,Delivered,04/21/2023
+ORD-1045,Rahul@,,P-100@,,5,395.72,,Net banking,Delivered,02-05-2023
+ORD-1047,S@nja y,user@gmail.com,P-100@,Electronics,5,238,,,Pending,02/19/2023
+ ORD-1560 ,S@nja y,user@gmail.com,P-100@,Electronics,1,239.61,,Cash on Delivery,,04-03-2023
+ORD-1390,,user@gmail.com,P-100@,Electronics,1,381.91,,Cash on Delivery,Pending,26-08-2023
+ORD-1126,Amit$,demo@outlook.com,P-100@,Fashion,10,157.45,,Net banking,Cancelled,25-06-2023
+ORD-1947,Ankit#,test@yahoo.com,P-100@,Home & Kitchen,1,99.71,,Credit Card,Delivered,12-03-2023
+ORD-1616,Rohit,test@yahoo.com,P-100@,Fashion,,209.58,,,Cancelled,04-09-2023
+ORD-2111,,user@gmail.com,P_300,Fashion,2,179.26,,Paypal,Cancelled,02-11-2023
+ORD-1291,Rahul@,demo@outlook.com,P-100@,,5,183.34,,Net banking,Pending,07-09-2023
+ORD-1121,Priya,test@yahoo.com,P#200,Home & Kitchen,1,155.12,,Net banking,Delivered,24-02-2023
+ORD-1879,Priya,test@yahoo.com,P-100@,Fashion,2,68.94,,Cash on Delivery,,29-11-2023
+ORD-1327,,wrong@email@.com,P_300,,,58.04,,Credit Card,Pending,02-07-2023
+ORD-1324,Amit$,demo@outlook.com,,,1,494.48,,Paypal,Pending,08-07-2023
+ORD-1871,Ankit#,test@yahoo.com,,Home & Kitchen,2,242.5,,Credit Card,Cancelled,17-12-2023
+ORD-1405,Priya,test@yahoo.com,P 400,Electronics,1,222.95,,Paypal,Pending,06/14/2023
+ORD-1323,S@nja y,demo@outlook.com,P 400,Fashion,5,355.84,,Paypal,Pending,02-01-2023
+ORD-1542,Rohit,wrong@email@.com,P_300,Home & Kitchen,5,148.21,,Paypal,Delivered,28-01-2023
+ ORD-1900 ,Rohit,,P_300,,,477.48,,Credit Card,Pending,23-07-2023
+ORD-1803,Ankit#,demo@outlook.com,,Fashion,2,403.86,,Credit Card,Delivered,10-12-2023
+ORD-1356,Rahul@,demo@outlook.com,,Fashion,2,90.23,,,,06-02-2023
+ORD-1154,Rahul@,,P#200,,1,237.91,,Net banking,,12-06-2023
+ORD-1725,S@nja y,test@yahoo.com,P-100@,Home & Kitchen,1,445.6,,Paypal,Pending,04-10-2023
+ORD-1651,,user@gmail.com,P 400,Home & Kitchen,1,475.13,,Credit Card,Delivered,30-11-2023
+ORD-1366,S@nja y,user@gmail.com,,Home & Kitchen,10,260.33,,,,25-09-2023
+ORD-2075,Rohit,wrong@email@.com,P_300,Fashion,5,326.04,,Cash on Delivery,Pending,27-12-2023
+ORD-2042,S@nja y,wrong@email@.com,P-100@,Home & Kitchen,2,125.17,,Net banking,,09/19/2023
+ORD-1124,Priya,wrong@email@.com,,,2,496.03,,Paypal,Delivered,02-05-2023
+ORD-1917,Ankit#,test@yahoo.com,,Fashion,,154.25,,,Delivered,05-02-2023
+ORD-1814,,,P-100@,Home & Kitchen,10,474.23,,Net banking,,10-09-2023
+ORD-2073,Priya,wrong@email@.com,,,2,342.34,,Paypal,,06/16/2023
+ORD-1392,Amit$,,P-100@,Electronics,10,323.48,,,,03-05-2023
+ORD-1474,S@nja y,wrong@email@.com,P 400,Electronics,2,280.71,,Cash on Delivery,,02-09-2023
+ORD-1481,Rahul@,,P_300,Electronics,10,153.8,,,Pending,18-09-2023
+ORD-1566,S@nja y,wrong@email@.com,P#200,,,129.44,,Net banking,Pending,03-11-2023
+ORD-1003,Ankit#,test@yahoo.com,,Home & Kitchen,10,149.22,,Paypal,,04-07-2023
+ORD-1650,Priya,user@gmail.com,P_300,Fashion,2,133.9,,Cash on Delivery,Pending,12/29/2023
+ORD-1429,Neha!!,user@gmail.com,,Fashion,2,400.81,,Cash on Delivery,Delivered,03/14/2023
+ORD-1929,Ankit#,test@yahoo.com,P_300,Home & Kitchen,,207.56,,Paypal,Cancelled,14-06-2023
+ORD-1224,Ankit#,wrong@email@.com,P 400,Home & Kitchen,2,76.03,,,,09-01-2023
+ ORD-1480 ,,,P 400,,5,486.1,,Cash on Delivery,,10-08-2023
+ORD-1333,Amit$,,P-100@,Fashion,2,447.7,,,Pending,21-11-2023
+ORD-1285,Rahul@,wrong@email@.com,,Fashion,1,467.49,,Net banking,Pending,04/26/2023
+ORD-1051,Rohit,user@gmail.com,P_300,,10,497.71,,,Delivered,04-02-2023
+ORD-1224,Amit$,wrong@email@.com,P_300,Fashion,,128.25,,Cash on Delivery,Pending,27-08-2023
+ORD-1228,Ankit#,wrong@email@.com,P-100@,Fashion,5,228.31,,,,02-02-2023
+ORD-1335,Priya,demo@outlook.com,,Home & Kitchen,2,391.21,,Cash on Delivery,,29-08-2023
+ORD-1639,Priya,demo@outlook.com,,Home & Kitchen,10,363.21,,Paypal,Cancelled,12-08-2023
+ORD-1497,,wrong@email@.com,P 400,,10,119.25,,Net banking,Pending,03/14/2023
+ORD-2199,S@nja y,test@yahoo.com,P#200,,1,417.12,,Credit Card,,09/20/2023
+ORD-2192,Amit$,test@yahoo.com,P_300,Electronics,,151,,Cash on Delivery,Cancelled,05/31/2023
+ORD-1779,Ankit#,wrong@email@.com,,,1,150.72,,,Pending,07/20/2023
+ORD-1754,Rohit,demo@outlook.com,P 400,Home & Kitchen,1,291.64,,Cash on Delivery,Delivered,13-02-2023
+ORD-1922,Rahul@,wrong@email@.com,P_300,,,316.82,,Cash on Delivery,Delivered,08-01-2023
+ORD-1958,Rahul@,wrong@email@.com,,Electronics,1,311.04,,Cash on Delivery,Cancelled,12-10-2023
+ORD-1748,Amit$,user@gmail.com,,Electronics,1,91.17,,Cash on Delivery,Delivered,08/21/2023
+ORD-1153,,demo@outlook.com,P-100@,Electronics,10,444.86,,,Delivered,02/24/2023
+ORD-1752,Rahul@,,P_300,Home & Kitchen,1,169.52,,Credit Card,Pending,23-02-2023
+ORD-1709,Priya,,,,10,108.28,,Net banking,Delivered,09/13/2023
+ORD-1797,S@nja y,user@gmail.com,P_300,Electronics,,449.94,,,Cancelled,01-01-2023
+ ORD-1980 ,Rohit,demo@outlook.com,P-100@,,10,480.04,,,,15-02-2023
+ORD-1644,,user@gmail.com,P_300,,2,437.96,,Paypal,Delivered,06/16/2023
+ORD-1545,Amit$,test@yahoo.com,P-100@,Electronics,1,414.28,,Cash on Delivery,Delivered,01-01-2024
+ORD-1543,Rahul@,test@yahoo.com,P 400,Fashion,2,344.86,,Net banking,Delivered,09-10-2023
+ORD-1349,Priya,,P_300,Home & Kitchen,1,297.89,,Cash on Delivery,Pending,06-07-2023
+ORD-1551,Rahul@,wrong@email@.com,P_300,Home & Kitchen,,89.14,,Cash on Delivery,Cancelled,01-09-2023
+ORD-1014,S@nja y,demo@outlook.com,,Electronics,1,233.8,,Credit Card,Pending,02-05-2023
+ORD-2043,Priya,,P#200,Fashion,2,217.71,,Net banking,Pending,13-11-2023
+ORD-1301,,test@yahoo.com,,Electronics,5,166.89,,Cash on Delivery,Pending,29-07-2023
+ORD-2083,S@nja y,test@yahoo.com,P#200,Fashion,1,375.54,,Paypal,Cancelled,03/20/2023
+ORD-1738,,test@yahoo.com,P#200,Home & Kitchen,5,273.14,,Credit Card,Cancelled,26-02-2023
+ORD-1121,Rahul@,test@yahoo.com,P_300,,2,86.47,,Cash on Delivery,Pending,07/28/2023
+ORD-1610,Ankit#,demo@outlook.com,P-100@,Fashion,,149.08,,Credit Card,Delivered,28-06-2023
+ORD-2006,Rahul@,test@yahoo.com,P-100@,Electronics,2,357.47,,Net banking,Pending,03-08-2023
+ORD-1786,Ankit#,wrong@email@.com,,,1,84.26,,Paypal,Cancelled,01-10-2023
+ORD-1915,Amit$,user@gmail.com,P-100@,,2,433.04,,Cash on Delivery,Pending,04-08-2023
+ORD-2025,Amit$,wrong@email@.com,P#200,Home & Kitchen,,272.82,,Net banking,Delivered,11-01-2023
+ORD-1350,Priya,demo@outlook.com,,Fashion,,266.26,,Paypal,Delivered,24-05-2023
+ORD-1856,S@nja y,user@gmail.com,P#200,,,316.58,,Credit Card,,05-02-2023
+ORD-1336,Rohit,wrong@email@.com,P_300,Fashion,1,421.11,,Paypal,Pending,05/31/2023
+ORD-1662,,wrong@email@.com,P-100@,Fashion,2,206.51,,,Delivered,10-02-2023
+ORD-2097,Rahul@,test@yahoo.com,P#200,Home & Kitchen,2,355.11,,Cash on Delivery,Pending,10-06-2023
+ORD-1090,Amit$,wrong@email@.com,,,10,304.58,,Credit Card,,25-03-2023
+ORD-1036,Amit$,demo@outlook.com,,,5,170.16,,Paypal,Delivered,09-10-2023
+ORD-1506,S@nja y,user@gmail.com,P 400,Fashion,,445.38,,,Pending,08/26/2023
+ORD-2156,Neha!!,,,Home & Kitchen,10,408.84,,,Delivered,27-05-2023
+ORD-1764,Rahul@,user@gmail.com,,Electronics,2,346.3,,Cash on Delivery,Cancelled,10/21/2023
+ORD-2115,Rohit,,P 400,Fashion,2,432.76,,Credit Card,Pending,01-11-2023
+ORD-2059,S@nja y,wrong@email@.com,P#200,Fashion,1,440.28,,Credit Card,Delivered,21-02-2023
+ORD-2057,,demo@outlook.com,P_300,Fashion,,368.76,,Paypal,Cancelled,09/19/2023
+ORD-1018,,,P 400,,,426.66,,Credit Card,Cancelled,10-09-2023
+ORD-1939,S@nja y,demo@outlook.com,,Electronics,5,363.86,,Paypal,Pending,01-03-2023
+ORD-1211,Amit$,user@gmail.com,P 400,Electronics,10,356.06,,Cash on Delivery,Cancelled,12/27/2023
+ORD-1409,S@nja y,wrong@email@.com,P_300,Fashion,5,328.38,,,Pending,03/28/2023
+ORD-1013,Ankit#,demo@outlook.com,P-100@,Fashion,,388.72,,Paypal,,18-12-2023
+ORD-1996,,demo@outlook.com,P#200,Fashion,,121.37,,Net banking,Pending,25-02-2023
+ORD-1516,Rahul@,wrong@email@.com,P_300,,1,446.39,,Credit Card,Delivered,14-09-2023
+ORD-2165,Amit$,wrong@email@.com,P-100@,Electronics,5,442.33,,Credit Card,,02-02-2023
+ ORD-1260 ,Rahul@,,,Home & Kitchen,10,63.16,,Credit Card,,08-12-2023
+ORD-1947,Rohit,user@gmail.com,P-100@,,1,421.62,,Net banking,Cancelled,03/30/2023
+ORD-2187,Neha!!,,P-100@,Home & Kitchen,1,107.99,,Cash on Delivery,Cancelled,05-02-2023
+ORD-1159,,demo@outlook.com,P 400,Fashion,2,200.8,,Paypal,Cancelled,18-06-2023
+ORD-2019,Neha!!,demo@outlook.com,P_300,Electronics,2,384.58,,Net banking,,08-05-2023
+ ORD-1620 ,Rohit,demo@outlook.com,P 400,Home & Kitchen,1,122.34,,Net banking,,27-08-2023
+ORD-1782,Ankit#,wrong@email@.com,P_300,Electronics,10,418.09,,,,10-03-2023
+ORD-1591,S@nja y,wrong@email@.com,P 400,,1,424.46,,,Pending,22-02-2023
+ORD-1418,Priya,wrong@email@.com,P_300,Home & Kitchen,,278.36,,Credit Card,Pending,06-11-2023
+ORD-1541,Ankit#,user@gmail.com,P#200,Electronics,1,52.87,,Credit Card,Delivered,23-05-2023
+ORD-1065,Rahul@,demo@outlook.com,P 400,,2,179.17,,Net banking,,10-05-2023
+ORD-1251,Amit$,wrong@email@.com,,Home & Kitchen,,327.62,,Credit Card,Pending,11/15/2023
+ORD-1329,Ankit#,test@yahoo.com,,Fashion,10,491.53,,Net banking,Delivered,03/29/2023
+ORD-1252,Rahul@,test@yahoo.com,P_300,Electronics,10,334.32,,Cash on Delivery,Delivered,10/30/2023
+ORD-1807,Ankit#,user@gmail.com,,Home & Kitchen,5,166.91,,,Cancelled,05-01-2023
+ORD-1030,Amit$,demo@outlook.com,P-100@,Home & Kitchen,2,335.3,,,Cancelled,30-09-2023
+ORD-2162,Amit$,user@gmail.com,P 400,,,292.99,,Cash on Delivery,Pending,03-06-2023
+ORD-1214,Priya,wrong@email@.com,P 400,Fashion,5,400.93,,Paypal,Cancelled,30-05-2023
+ORD-1657,Rahul@,user@gmail.com,,Electronics,,98.14,,,Cancelled,07/21/2023
+ORD-1902,,,P 400,Fashion,,392.46,,,Delivered,26-12-2023
+ORD-1724,Rahul@,test@yahoo.com,P_300,Electronics,,293.57,,Paypal,Cancelled,12-05-2023
+ORD-2030,Priya,test@yahoo.com,P_300,Fashion,2,483.35,,Paypal,Pending,01/29/2023
+ORD-1803,Amit$,wrong@email@.com,P-100@,Electronics,10,203.84,,Credit Card,Pending,06-03-2023
+ORD-1156,Amit$,wrong@email@.com,P_300,Home & Kitchen,10,334.68,,Cash on Delivery,Delivered,08/14/2023
+ORD-1634,Amit$,,P-100@,Fashion,5,469.41,,,Delivered,26-11-2023
+ORD-1154,S@nja y,,,Home & Kitchen,1,96.13,,Net banking,Delivered,03-11-2023
+ORD-1633,Priya,user@gmail.com,P#200,Home & Kitchen,5,471.75,,Credit Card,,08-10-2023
+ORD-1329,Neha!!,user@gmail.com,P 400,Home & Kitchen,,359.55,,Cash on Delivery,Delivered,05-03-2023
+ORD-1749,Rahul@,demo@outlook.com,P_300,,5,80.53,,,Cancelled,30-11-2023
+ORD-1197,Neha!!,test@yahoo.com,P#200,,5,185.43,,Net banking,Cancelled,13-01-2023
+ORD-2167,S@nja y,,P 400,Home & Kitchen,1,368.68,,Net banking,Pending,06/16/2023
+ORD-1506,Rahul@,demo@outlook.com,P 400,,1,80.31,,,Pending,26-04-2023
+ORD-1755,Ankit#,wrong@email@.com,P 400,,5,311.98,,,,02-08-2023
+ORD-2110,,demo@outlook.com,P#200,,2,205.65,,Net banking,Pending,13-06-2023
+ORD-2147,Neha!!,,,Home & Kitchen,,329.41,,Credit Card,Pending,05-05-2023
+ORD-2139,Amit$,test@yahoo.com,,,,70.58,,Cash on Delivery,,13-06-2023
+ORD-1125,,,P_300,Fashion,,442.19,,Credit Card,Pending,07/15/2023
+ORD-1663,S@nja y,wrong@email@.com,P#200,Fashion,1,488.07,,Paypal,Cancelled,04-05-2023
+ORD-2161,Priya,demo@outlook.com,P-100@,,5,486,,Cash on Delivery,,16-01-2023
+ORD-1450,,,,,2,387.34,,Credit Card,Delivered,25-08-2023
+ORD-1313,Priya,wrong@email@.com,P_300,Electronics,1,108.54,,,Cancelled,07/21/2023
