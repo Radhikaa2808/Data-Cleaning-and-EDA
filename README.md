@@ -62,7 +62,7 @@ ecommerce-data-cleaning/
 
 # Tech Stack :
 
-Python 3.x | Pandas | NumPy | Jupyter Notebook
+Python 3.14.5 | Pandas | NumPy | Jupyter Notebook
 
 ---
 
@@ -72,6 +72,6 @@ cd Data-Cleaning-and-EDA
 pip install pandas numpy jupyter
 jupyter notebook
 
-## 👩‍💻 Author
+## Author :
 
-Radhika | B.Tech Data Science & AI | SRMUH, Lucknow
+Radhika Pal | BCA in  Data Science & AI | Shri Ramswaroop Memorial University, Lucknow.
